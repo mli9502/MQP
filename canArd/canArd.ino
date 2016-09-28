@@ -12,13 +12,15 @@
 const int SPI_CS_PIN = 9;
 const int LED=8;
 boolean ledON=1;
+unsigned long time;
 MCP_CAN CAN(SPI_CS_PIN);                                    // Set CS pin
 
 void setup()
 {
-    Serial.begin(115200);
+  
+    Serial.begin(9600);
     pinMode(LED,OUTPUT);
-
+    Serial.print("Hello");
     while (CAN_OK != CAN.begin(CAN_500KBPS))              // init can bus : baudrate = 500k
     {
         Serial.println("CAN BUS Shield init fail");
@@ -39,28 +41,16 @@ void loop()
         CAN.readMsgBuf(&len, buf);    // read data,  len: data length, buf: data buf
 
         unsigned char canId = CAN.getCanId();
-
+        time = millis();
         Serial.println("-----------------------------");
-        Serial.println("get data from ID: ");
-        Serial.println(canId);
-
+        Serial.print("get data from ID: ");
+        Serial.print(canId, HEX);
+        Serial.print("   Time: ");
+        Serial.println(time);
         for(int i = 0; i<len; i++)    // print the data
         {
-            Serial.print(buf[i]);
+            Serial.print(buf[i], HEX);
             Serial.print("\t");
-            if(ledON && i==0)
-            {
-
-                digitalWrite(LED,buf[i]);
-                ledON=0;
-                delay(500);
-            }
-            else if((!(ledON)) && i==4)
-            {
-
-                digitalWrite(LED,buf[i]);
-                ledON=1;
-            }
         }
         Serial.println();
     }
