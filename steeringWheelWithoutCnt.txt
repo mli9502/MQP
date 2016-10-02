@@ -1,0 +1,843 @@
+t data from ID: 25 HelloEnter setting mode success 
+set rate success!!
+Enter Normal Mode Success!!
+CAN BUS Shield init ok!
+-----------------------------
+get data from ID: 25   Time: 60
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 145
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 241
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 337
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 434
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 518
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 614
+F	F9	1F	FF	82	82	82	D9	
+-----------------------------
+get data from ID: 25   Time: 711
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 806
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 891
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 988
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 1084
+F	F9	1F	FF	82	82	82	D9	
+-----------------------------
+get data from ID: 25   Time: 1180
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 1276
+F	F9	1F	FF	6E	6E	6E	9D	
+-----------------------------
+get data from ID: 25   Time: 1361
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 1457
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 1553
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 1649
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 1745
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 1843
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 1938
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 2034
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 2119
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 2215
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 2312
+F	F9	1F	FF	82	82	82	D9	
+-----------------------------
+get data from ID: 25   Time: 2408
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 2504
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 2592
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 2697
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 2793
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 2877
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 2973
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 3069
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 3166
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 3262
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 3358
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 3454
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 3539
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 3636
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 3732
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 3828
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 3924
+F	F9	1F	FF	6E	6E	6E	9D	
+-----------------------------
+get data from ID: 25   Time: 4012
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 4117
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 4201
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 4297
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 4393
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 4491
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 4586
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 4682
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 4780
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 4864
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 4960
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 5056
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 5152
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 5249
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 5345
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 5441
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 5526
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 5621
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 5719
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 5814
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 5910
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 6007
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 6104
+F	F9	1F	FF	82	82	82	D9	
+-----------------------------
+get data from ID: 25   Time: 6200
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 6284
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 6380
+F	F9	1F	FF	82	82	82	D9	
+-----------------------------
+get data from ID: 25   Time: 6476
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 6573
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 6669
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 6765
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 6861
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 6958
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 7042
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 7138
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 7234
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 7330
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 7427
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 7523
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 7619
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 7704
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 7800
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 7896
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 7993
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 8089
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 8175
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 8282
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 8366
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 8462
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 8558
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 8654
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 8751
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 8847
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 8943
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 9028
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 9123
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 9220
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 9316
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 9413
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 9509
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 9605
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 9701
+F	F9	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 9786
+F	FA	1F	FF	78	78	78	BC	
+-----------------------------
+get data from ID: 25   Time: 9882
+F	FA	1F	FF	78	78	78	BC	
+-----------------------------
+get data from ID: 25   Time: 9978
+F	FB	1F	FF	78	78	78	BD	
+-----------------------------
+get data from ID: 25   Time: 10075
+F	FC	1F	FF	14	14	78	F6	
+-----------------------------
+get data from ID: 25   Time: 10171
+F	FC	1F	FF	78	78	78	BE	
+-----------------------------
+get data from ID: 25   Time: 10260
+F	FC	1F	FF	78	78	78	BE	
+-----------------------------
+get data from ID: 25   Time: 10363
+F	FC	1F	FF	78	78	78	BE	
+-----------------------------
+get data from ID: 25   Time: 10460
+F	FC	1F	FF	78	78	78	BE	
+-----------------------------
+get data from ID: 25   Time: 10556
+F	FC	1F	FF	78	78	78	BE	
+-----------------------------
+get data from ID: 25   Time: 10652
+F	FC	1F	FF	78	78	78	BE	
+-----------------------------
+get data from ID: 25   Time: 10748
+F	FC	1F	FF	78	78	78	BE	
+-----------------------------
+get data from ID: 25   Time: 10845
+F	FD	1F	FF	1E	1E	78	B	
+-----------------------------
+get data from ID: 25   Time: 10929
+F	FE	1F	FF	82	82	82	DE	
+-----------------------------
+get data from ID: 25   Time: 11026
+0	1	1F	FF	3C	3C	78	3C	
+-----------------------------
+get data from ID: 25   Time: 11121
+0	6	1F	FF	14	14	78	F1	
+-----------------------------
+get data from ID: 25   Time: 11217
+0	10	1F	FF	46	46	78	5F	
+-----------------------------
+get data from ID: 25   Time: 11314
+0	1F	1F	FF	A	78	78	64	
+-----------------------------
+get data from ID: 25   Time: 11411
+0	32	1F	FF	A	6E	78	6D	
+-----------------------------
+get data from ID: 25   Time: 11507
+0	44	1F	FF	32	6E	78	A7	
+-----------------------------
+get data from ID: 25   Time: 11594
+0	53	1F	FF	28	64	78	A2	
+-----------------------------
+get data from ID: 25   Time: 11699
+0	67	1F	FF	A	78	78	AC	
+-----------------------------
+get data from ID: 25   Time: 11796
+0	79	1F	FF	28	5A	78	BE	
+-----------------------------
+get data from ID: 25   Time: 11891
+0	90	1F	FF	14	5A	78	C1	
+-----------------------------
+get data from ID: 25   Time: 11976
+0	A9	1F	FF	14	78	78	F8	
+-----------------------------
+get data from ID: 25   Time: 12072
+0	C1	1F	FF	28	50	78	FC	
+-----------------------------
+get data from ID: 25   Time: 12168
+0	D2	1F	FF	14	50	78	F9	
+-----------------------------
+get data from ID: 25   Time: 12265
+0	E3	1F	FF	3C	78	78	5A	
+-----------------------------
+get data from ID: 25   Time: 12361
+0	F2	1F	FF	3C	3C	78	2D	
+-----------------------------
+get data from ID: 25   Time: 12457
+1	1	1F	FF	32	82	82	83	
+-----------------------------
+get data from ID: 25   Time: 12554
+1	D	1F	FF	1E	6E	78	5D	
+-----------------------------
+get data from ID: 25   Time: 12650
+1	1B	1F	FF	46	46	78	6B	
+-----------------------------
+get data from ID: 25   Time: 12746
+1	29	1F	FF	14	64	78	65	
+-----------------------------
+get data from ID: 25   Time: 12843
+1	34	1F	FF	28	28	78	48	
+-----------------------------
+get data from ID: 25   Time: 12939
+1	40	1F	FF	28	78	78	A4	
+-----------------------------
+get data from ID: 25   Time: 13035
+1	4A	1F	FF	3C	3C	78	86	
+-----------------------------
+get data from ID: 25   Time: 13131
+1	54	1F	FF	46	46	78	A4	
+-----------------------------
+get data from ID: 25   Time: 13217
+1	5B	1F	FF	46	46	78	AB	
+-----------------------------
+get data from ID: 25   Time: 13314
+1	62	1F	FF	32	32	78	8A	
+-----------------------------
+get data from ID: 25   Time: 13420
+1	6D	1F	FF	50	50	78	D1	
+-----------------------------
+get data from ID: 25   Time: 13505
+1	78	1F	FF	46	46	78	C8	
+-----------------------------
+get data from ID: 25   Time: 13601
+1	88	1F	FF	3C	78	78	0	
+-----------------------------
+get data from ID: 25   Time: 13697
+1	97	1F	FF	46	46	78	E7	
+-----------------------------
+get data from ID: 25   Time: 13794
+1	A4	1F	FF	78	78	78	58	
+-----------------------------
+get data from ID: 25   Time: 13890
+1	A4	1F	FF	78	78	78	58	
+-----------------------------
+get data from ID: 25   Time: 13986
+1	A4	1F	FF	78	78	78	58	
+-----------------------------
+get data from ID: 25   Time: 14083
+1	A4	1F	FF	78	78	78	58	
+-----------------------------
+get data from ID: 25   Time: 14178
+1	A4	1F	FF	78	78	78	58	
+-----------------------------
+get data from ID: 25   Time: 14275
+1	A4	1F	FF	78	78	78	58	
+-----------------------------
+get data from ID: 25   Time: 14371
+1	A4	1F	FF	78	78	78	58	
+-----------------------------
+get data from ID: 25   Time: 14468
+1	A4	1F	FF	78	78	78	58	
+-----------------------------
+get data from ID: 25   Time: 14564
+1	A4	1F	FF	78	78	78	58	
+-----------------------------
+get data from ID: 25   Time: 14660
+1	A3	1F	FF	1E	1E	78	A3	
+-----------------------------
+get data from ID: 25   Time: 14756
+1	A3	1F	FF	78	78	78	57	
+-----------------------------
+get data from ID: 25   Time: 14853
+1	A2	1F	FF	28	28	78	B6	
+-----------------------------
+get data from ID: 25   Time: 14949
+1	A2	1F	FF	6E	6E	6E	38	
+-----------------------------
+get data from ID: 25   Time: 15034
+1	A1	1F	FF	78	78	78	55	
+-----------------------------
+get data from ID: 25   Time: 15130
+1	A0	1F	FF	78	78	78	54	
+-----------------------------
+get data from ID: 25   Time: 15238
+1	9D	1F	FF	78	78	78	51	
+-----------------------------
+get data from ID: 25   Time: 15322
+1	98	1F	FF	78	78	78	4C	
+-----------------------------
+get data from ID: 25   Time: 15418
+1	8D	1F	FF	1E	78	78	E7	
+-----------------------------
+get data from ID: 25   Time: 15514
+1	81	1F	FF	3C	3C	78	BD	
+-----------------------------
+get data from ID: 25   Time: 15610
+1	76	1F	FF	5A	5A	78	EE	
+-----------------------------
+get data from ID: 25   Time: 15707
+1	70	1F	FF	5A	5A	78	E8	
+-----------------------------
+get data from ID: 25   Time: 15803
+1	6B	1F	FF	46	46	78	BB	
+-----------------------------
+get data from ID: 25   Time: 15899
+1	65	1F	FF	32	32	78	8D	
+-----------------------------
+get data from ID: 25   Time: 15995
+1	5D	1F	FF	28	28	78	71	
+-----------------------------
+get data from ID: 25   Time: 16092
+1	53	1F	FF	5A	5A	78	CB	
+-----------------------------
+get data from ID: 25   Time: 16188
+1	48	1F	FF	28	78	78	AC	
+-----------------------------
+get data from ID: 25   Time: 16284
+1	3C	1F	FF	46	46	78	8C	
+-----------------------------
+get data from ID: 25   Time: 16380
+1	2D	1F	FF	32	78	78	9B	
+-----------------------------
+get data from ID: 25   Time: 16477
+1	1C	1F	FF	14	78	78	6C	
+-----------------------------
+get data from ID: 25   Time: 16573
+1	8	1F	FF	32	5A	78	58	
+-----------------------------
+get data from ID: 25   Time: 16669
+0	F2	1F	FF	1E	78	78	4B	
+-----------------------------
+get data from ID: 25   Time: 16765
+0	DE	1F	FF	28	5A	78	23	
+-----------------------------
+get data from ID: 25   Time: 16862
+0	CA	1F	FF	28	5A	78	F	
+-----------------------------
+get data from ID: 25   Time: 16947
+0	B8	1F	FF	A	64	78	E9	
+-----------------------------
+get data from ID: 25   Time: 17042
+0	A1	1F	FF	A	82	82	FA	
+-----------------------------
+get data from ID: 25   Time: 17139
+0	89	1F	FF	1E	6E	78	D8	
+-----------------------------
+get data from ID: 25   Time: 17234
+0	76	1F	FF	3C	3C	78	B1	
+-----------------------------
+get data from ID: 25   Time: 17332
+0	69	1F	FF	28	6E	78	C2	
+-----------------------------
+get data from ID: 25   Time: 17428
+0	59	1F	FF	1E	5A	78	94	
+-----------------------------
+get data from ID: 25   Time: 17523
+0	45	1F	FF	A	64	78	76	
+-----------------------------
+get data from ID: 25   Time: 17620
+0	2F	1F	FF	1E	78	78	88	
+-----------------------------
+get data from ID: 25   Time: 17717
+0	1B	1F	FF	A	64	78	4C	
+-----------------------------
+get data from ID: 25   Time: 17813
+0	9	1F	FF	A	46	78	1C	
+-----------------------------
+get data from ID: 25   Time: 17897
+0	1	1F	FF	78	78	78	B4	
+-----------------------------
+get data from ID: 25   Time: 17993
+0	1	1F	FF	82	82	82	D2	
+-----------------------------
+get data from ID: 25   Time: 18089
+0	1	1F	FF	78	78	78	B4	
+-----------------------------
+get data from ID: 25   Time: 18186
+0	1	1F	FF	78	78	78	B4	
+-----------------------------
+get data from ID: 25   Time: 18282
+0	1	1F	FF	78	78	78	B4	
+-----------------------------
+get data from ID: 25   Time: 18378
+0	1	1F	FF	78	78	78	B4	
+-----------------------------
+get data from ID: 25   Time: 18475
+0	1	1F	FF	78	78	78	B4	
+-----------------------------
+get data from ID: 25   Time: 18572
+0	1	1F	FF	78	78	78	B4	
+-----------------------------
+get data from ID: 25   Time: 18656
+0	1	1F	FF	78	78	78	B4	
+-----------------------------
+get data from ID: 25   Time: 18751
+0	1	1F	FF	78	78	78	B4	
+-----------------------------
+get data from ID: 25   Time: 18848
+0	1	1F	FF	78	78	78	B4	
+-----------------------------
+get data from ID: 25   Time: 18944
+0	0	1F	FF	78	78	78	B3	
+-----------------------------
+get data from ID: 25   Time: 19040
+0	0	1F	FF	78	78	78	B3	
+-----------------------------
+get data from ID: 25   Time: 19137
+0	0	1F	FF	78	78	78	B3	
+-----------------------------
+get data from ID: 25   Time: 19232
+0	0	1F	FF	78	78	78	B3	
+-----------------------------
+get data from ID: 25   Time: 19317
+0	0	1F	FF	78	78	78	B3	
+-----------------------------
+get data from ID: 25   Time: 19414
+0	0	1F	FF	78	78	78	B3	
+-----------------------------
+get data from ID: 25   Time: 19510
+0	0	1F	FF	78	78	78	B3	
+-----------------------------
+get data from ID: 25   Time: 19606
+F	FE	1F	FF	14	14	78	F8	
+-----------------------------
+get data from ID: 25   Time: 19702
+F	F9	1F	FF	50	50	78	6B	
+-----------------------------
+get data from ID: 25   Time: 19799
+F	F1	1F	FF	46	46	78	4F	
+-----------------------------
+get data from ID: 25   Time: 19895
+F	E8	1F	FF	28	28	78	A	
+-----------------------------
+get data from ID: 25   Time: 19991
+F	DE	1F	FF	A	6E	78	28	
+-----------------------------
+get data from ID: 25   Time: 20088
+F	D5	1F	FF	50	50	78	47	
+-----------------------------
+get data from ID: 25   Time: 20184
+F	CA	1F	FF	1E	64	78	1E	
+-----------------------------
+get data from ID: 25   Time: 20268
+F	BD	1F	FF	3C	78	78	43	
+-----------------------------
+get data from ID: 25   Time: 20365
+F	A9	1F	FF	14	64	78	F3	
+-----------------------------
+get data from ID: 25   Time: 20461
+F	91	1F	FF	28	78	82	D	
+-----------------------------
+get data from ID: 25   Time: 20557
+F	7E	1F	FF	14	50	78	B4	
+-----------------------------
+get data from ID: 25   Time: 20654
+F	72	1F	FF	3C	3C	78	BC	
+-----------------------------
+get data from ID: 25   Time: 20750
+F	5F	1F	FF	14	6E	78	B3	
+-----------------------------
+get data from ID: 25   Time: 20846
+F	47	1F	FF	28	6E	78	AF	
+-----------------------------
+get data from ID: 25   Time: 20942
+F	2E	1F	FF	1E	64	78	82	
+-----------------------------
+get data from ID: 25   Time: 21039
+F	15	1F	FF	A	5A	78	4B	
+-----------------------------
+get data from ID: 25   Time: 21135
+E	FE	1F	FF	28	50	78	47	
+-----------------------------
+get data from ID: 25   Time: 21231
+E	E9	1F	FF	28	50	78	32	
+-----------------------------
+get data from ID: 25   Time: 21327
+E	D5	1F	FF	32	64	78	3C	
+-----------------------------
+get data from ID: 25   Time: 21424
+E	C0	1F	FF	1E	78	78	27	
+-----------------------------
+get data from ID: 25   Time: 21520
+E	AD	1F	FF	28	5A	78	0	
+-----------------------------
+get data from ID: 25   Time: 21616
+E	A0	1F	FF	28	28	78	C1	
+-----------------------------
+get data from ID: 25   Time: 21700
+E	95	1F	FF	14	64	78	DE	
+-----------------------------
+get data from ID: 25   Time: 21796
+E	89	1F	FF	50	50	78	FA	
+-----------------------------
+get data from ID: 25   Time: 21893
+E	7C	1F	FF	14	5A	78	BB	
+-----------------------------
+get data from ID: 25   Time: 21989
+E	6F	1F	FF	3C	82	82	8	
+-----------------------------
+get data from ID: 25   Time: 22085
+E	65	1F	FF	46	46	78	C2	
+-----------------------------
+get data from ID: 25   Time: 22181
+E	62	1F	FF	78	78	78	23	
+-----------------------------
+get data from ID: 25   Time: 22278
+E	62	1F	FF	78	78	78	23	
+-----------------------------
+get data from ID: 25   Time: 22375
+E	62	1F	FF	78	78	78	23	
+-----------------------------
+get data from ID: 25   Time: 22470
+E	62	1F	FF	78	78	78	23	
+-----------------------------
+get data from ID: 25   Time: 22566
+E	62	1F	FF	78	78	78	23	
+-----------------------------
+get data from ID: 25   Time: 22664
+E	62	1F	FF	78	78	78	23	
+-----------------------------
+get data from ID: 25   Time: 22759
+E	62	1F	FF	78	78	78	23	
+-----------------------------
+get data from ID: 25   Time: 22856
+E	62	1F	FF	78	78	78	23	
+-----------------------------
+get data from ID: 25   Time: 22951
+E	62	1F	FF	82	82	82	41	
+-----------------------------
+get data from ID: 25   Time: 23049
+E	62	1F	FF	78	78	78	23	
+-----------------------------
+get data from ID: 25   Time: 23145
+E	62	1F	FF	78	78	78	23	
+-----------------------------
+get data from ID: 25   Time: 23240
+E	62	1F	FF	78	78	78	23	
+-----------------------------
+get data from ID: 25   Time: 23325
+E	62	1F	FF	78	78	78	23	
+-----------------------------
+get data from ID: 25   Time: 23421
+E	62	1F	FF	78	78	78	23	
+-----------------------------
+get data from ID: 25   Time: 23518
+E	62	1F	FF	78	78	78	23	
+-----------------------------
+get data from ID: 25   Time: 23614
+E	62	1F	FF	78	78	78	23	
+-----------------------------
+get data from ID: 25   Time: 23710
+E	66	1F	FF	64	64	78	FF	
+-----------------------------
+get data from ID: 25   Time: 23806
+E	71	1F	FF	46	46	78	CE	
+-----------------------------
+get data from ID: 25   Time: 23903
+E	82	1F	FF	A	46	6E	99	
+-----------------------------
+get data from ID: 25   Time: 23999
+E	94	1F	FF	14	50	78	C9	
+-----------------------------
+get data from ID: 25   Time: 24095
+E	A7	1F	FF	32	64	78	E	
+-----------------------------
+get data from ID: 25   Time: 24192
+E	BF	1F	FF	1E	64	78	12	
+-----------------------------
+get data from ID: 25   Time: 24288
+E	DF	1F	FF	14	6E	78	32	
+-----------------------------
+get data from ID: 25   Time: 24384
+F	0	1F	FF	1E	78	78	68	
+-----------------------------
+get data from ID: 25   Time: 24481
+F	1E	1F	FF	A	64	78	5E	
+-----------------------------
+get data from ID: 25   Time: 24565
+F	39	1F	FF	A	6E	78	83	
+-----------------------------
+get data from ID: 25   Time: 24662
+F	58	1F	FF	14	6E	82	B6	
+-----------------------------
+get data from ID: 25   Time: 24758
+F	72	1F	FF	14	6E	78	C6	
+-----------------------------
+get data from ID: 25   Time: 24854
+F	84	1F	FF	32	64	78	EC	
+-----------------------------
+get data from ID: 25   Time: 24949
+F	9A	1F	FF	14	64	78	E4	
+-----------------------------
+get data from ID: 25   Time: 25047
+F	B3	1F	FF	1E	64	78	7	
+-----------------------------
+get data from ID: 25   Time: 25143
+F	CC	1F	FF	A	5A	78	2	
+-----------------------------
+get data from ID: 25   Time: 25231
+F	E2	1F	FF	1E	6E	78	40	
+-----------------------------
+get data from ID: 25   Time: 25335
+F	F7	1F	FF	A	50	78	23	
+-----------------------------
+get data from ID: 25   Time: 25432
+0	3	1F	FF	64	64	78	8E	
+-----------------------------
+get data from ID: 25   Time: 25516
+0	8	1F	FF	78	78	78	BB	
+-----------------------------
+get data from ID: 25   Time: 25612
+0	9	1F	FF	78	78	78	BC	
+-----------------------------
+get data from ID: 25   Time: 25709
+0	6	1F	FF	78	78	78	B9	
+-----------------------------
+get data from ID: 25   Time: 25804
+0	3	1F	FF	32	32	78	2A	
+-----------------------------
+get data from ID: 25   Time: 25901
+0	2	1F	FF	78	78	78	B5	
+-----------------------------
+get data from ID: 25   Time: 25997
+0	1	1F	FF	78	78	78	B4	
+-----------------------------
+get data from ID: 25   Time: 26094
+0	1	1F	FF	78	78	78	B4	
+-----------------------------
+get data from ID: 25   Time: 26178
+0	1	1F	FF	78	78	78	B4	
+-----------------------------
+get data from ID: 25   Time: 26274
+0	1	1F	FF	78	78	78	B4	
+-----------------------------
+get data from ID: 25   Time: 26370
+0	1	1F	FF	78	78	78	B4	
+-----------------------------
+get data from ID: 25   Time: 26466
+0	1	1F	FF	78	78	78	B4	
+-----------------------------
+get data from ID: 25   Time

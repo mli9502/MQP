@@ -14,6 +14,7 @@ const int LED=8;
 boolean ledON=1;
 unsigned long time;
 MCP_CAN CAN(SPI_CS_PIN);                                    // Set CS pin
+int cnt = 0;
 
 void setup()
 {
@@ -41,18 +42,25 @@ void loop()
         CAN.readMsgBuf(&len, buf);    // read data,  len: data length, buf: data buf
 
         unsigned char canId = CAN.getCanId();
-        time = millis();
-        Serial.println("-----------------------------");
-        Serial.print("get data from ID: ");
-        Serial.print(canId, HEX);
-        Serial.print("   Time: ");
-        Serial.println(time);
-        for(int i = 0; i<len; i++)    // print the data
+        if(canId == 226)
         {
-            Serial.print(buf[i], HEX);
-            Serial.print("\t");
+            if(cnt == 10) {
+              time = millis();
+            Serial.println("-----------------------------");
+            Serial.print("get data from ID: ");
+            Serial.print(canId, HEX);
+            Serial.print("   Time: ");
+            Serial.println(time);
+            for(int i = 0; i<len; i++)    // print the data
+            {
+                Serial.print(buf[i], HEX);
+                Serial.print("\t");
+            }
+            Serial.println();
+            cnt = 0;
+            }
+            cnt ++;
         }
-        Serial.println();
     }
 }
 
