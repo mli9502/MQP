@@ -1,21 +1,21 @@
 // With counter.
-ID: 25Hex
-rightmost: E 61 1F FF 78 78 78 22
-middle: F FD 1F FF 78 78 78 BF
-leftmost: 1 A5 1F FF 78 78 78 59
-180 cw: F 86 1F FF 78 78 78 48
-360 cw: F A 1F FF 78 78 78 CC
-540 cw: E 94 1F FF 78 78 78 55
-180 ccw: 0 77 1F FF 78 78 78 2A
-360 ccw: 0 EE 1F FF 78 78 78 A1
-540 ccw: 1 65 1F FF 78 78 78 19
+// ID: 25Hex
+// rightmost: E 61 1F FF 78 78 78 22
+// middle: F FD 1F FF 78 78 78 BF
+// leftmost: 1 A5 1F FF 78 78 78 59
+// 180 cw: F 86 1F FF 78 78 78 48
+// 360 cw: F A 1F FF 78 78 78 CC
+// 540 cw: E 94 1F FF 78 78 78 55
+// 180 ccw: 0 77 1F FF 78 78 78 2A
+// 360 ccw: 0 EE 1F FF 78 78 78 A1
+// 540 ccw: 1 65 1F FF 78 78 78 19
 
 
-ime: 14419
-0	2	1F	FF	78	78HelloEnter setting mode success 
-set rate success!!
-Enter Normal Mode Success!!
-CAN BUS Shield init ok!
+// ime: 14419
+// 0	2	1F	FF	78	78HelloEnter setting mode success 
+// set rate success!!
+// Enter Normal Mode Success!!
+// CAN BUS Shield init ok!
 -----------------------------
 get data from ID: 25   Time: 286
 0	2	1F	FF	78	78	78	B5	
@@ -4003,6 +4003,3 @@ F	F7	1F	FF	78	78	78	B9
 -----------------------------
 get data from ID: 25   Time: 351866
 F	F7	1F	FF	78	78	78	B9	
------------------------------
-get data from ID: 25   Time: 352131
-F	F7	1F	FF
