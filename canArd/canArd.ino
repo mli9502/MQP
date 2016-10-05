@@ -42,7 +42,7 @@ void loop()
         CAN.readMsgBuf(&len, buf);    // read data,  len: data length, buf: data buf
 
         unsigned char canId = CAN.getCanId();
-        if(canId == 2 * 16 + 5)
+        if(canId == 6 * 16 + 1)
         {
             if(cnt == 10) {
               time = millis();

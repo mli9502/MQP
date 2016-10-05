@@ -21242,6 +21242,3 @@ get data from ID: AA   Time: 638688
 -----------------------------
 get data from ID: 63   Time: 638786
 5	1D	20	0	AC	80	DA	
------------------------------
-get data from ID: C1   Time: 638878
-8	2	79	1	
