@@ -1,0 +1,2985 @@
+-----------------------------
+get data from ID: AA   Time: 412
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 822
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 1230
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 1640
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 2050
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 2459
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 2855
+0	0	0	0	0	B1	
+-----------------------------
+get data from ID: AA   Time: 3253
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 3662
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 4071
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 4481
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 4878
+0	0	0	0	0	B1	
+-----------------------------
+get data from ID: AA   Time: 5275
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 5684
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 6081
+0	0	0	0	0	B1	
+-----------------------------
+get data from ID: AA   Time: 6478
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 6887
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 7297
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 7706
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 8115
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 8524
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 8934
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 9344
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 9752
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 10162
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 10570
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 10980
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 11389
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 11798
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 12208
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 12617
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 13027
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 13435
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 13845
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 14254
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 14663
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 15072
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 15481
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 15891
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 16300
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 16709
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 17118
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 17527
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 17937
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 18345
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 18755
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 19164
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 19573
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 19983
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 20391
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 20801
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 21211
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 21619
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 22017
+0	0	0	0	0	B1	
+-----------------------------
+get data from ID: AA   Time: 22414
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 22822
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 23232
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 23641
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 24038
+0	0	0	0	0	B1	
+-----------------------------
+get data from ID: AA   Time: 24435
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 24844
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 25253
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 25663
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 26072
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 26481
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 26891
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 27299
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 27709
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 28119
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 28527
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 28936
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 29345
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 29754
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 30163
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 30573
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 30982
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 31391
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 31800
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 32209
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 32618
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 33028
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 33436
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 33846
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 34255
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 34664
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 35061
+0	0	0	0	0	B1	
+-----------------------------
+get data from ID: AA   Time: 35458
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 35867
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 36277
+1A	F0	1A	F8	1A	F5	1A	F1	
+-----------------------------
+get data from ID: AA   Time: 36686
+1B	4C	1B	36	1B	4B	1B	34	
+-----------------------------
+get data from ID: AA   Time: 37095
+1B	AF	1B	7F	1B	9E	1B	62	
+-----------------------------
+get data from ID: AA   Time: 37504
+1C	F	1B	B7	1B	E0	1B	6F	
+-----------------------------
+get data from ID: AA   Time: 37901
+0	0	0	0	0	B1	
+-----------------------------
+get data from ID: AA   Time: 38298
+1C	5E	1B	E8	1C	C	1B	7D	
+-----------------------------
+get data from ID: AA   Time: 38708
+1C	5C	1B	E7	1C	C	1B	7C	
+-----------------------------
+get data from ID: AA   Time: 39105
+0	0	0	0	0	B1	
+-----------------------------
+get data from ID: AA   Time: 39502
+1C	37	1B	C7	1B	E8	1B	64	
+-----------------------------
+get data from ID: AA   Time: 39912
+1C	12	1B	AE	1B	CD	1B	51	
+-----------------------------
+get data from ID: AA   Time: 40321
+1B	E9	1B	8D	1B	AA	1B	3B	
+-----------------------------
+get data from ID: AA   Time: 40730
+1B	BC	1B	6D	1B	87	1B	24	
+-----------------------------
+get data from ID: AA   Time: 41139
+1B	85	1B	43	1B	58	1B	C	
+-----------------------------
+get data from ID: AA   Time: 41548
+1B	41	1B	E	1B	29	1A	F1	
+-----------------------------
+get data from ID: AA   Time: 41958
+1A	F6	1A	E3	1A	EF	1A	DE	
+-----------------------------
+get data from ID: AA   Time: 42366
+1A	C4	1A	B4	1A	C0	1A	B5	
+-----------------------------
+get data from ID: AA   Time: 42764
+0	0	0	0	0	B1	
+-----------------------------
+get data from ID: AA   Time: 43161
+1A	EC	1A	F0	1A	E9	1A	E0	
+-----------------------------
+get data from ID: AA   Time: 43570
+1B	94	1B	DB	1B	8F	1B	C9	
+-----------------------------
+get data from ID: AA   Time: 43979
+1C	1	1C	6D	1B	AE	1C	39	
+-----------------------------
+get data from ID: AA   Time: 44388
+1C	34	1C	B9	1B	B3	1C	65	
+-----------------------------
+get data from ID: AA   Time: 44797
+1C	41	1C	CD	1B	C4	1C	75	
+-----------------------------
+get data from ID: AA   Time: 45207
+1C	85	1D	C	1C	40	1C	D2	
+-----------------------------
+get data from ID: AA   Time: 45616
+1C	F3	1D	69	1C	DB	1D	46	
+-----------------------------
+get data from ID: AA   Time: 46025
+1D	6A	1D	D9	1D	4F	1D	C2	
+-----------------------------
+get data from ID: AA   Time: 46434
+1D	EF	1E	29	1D	E7	1E	23	
+-----------------------------
+get data from ID: AA   Time: 46843
+1E	66	1E	8A	1E	67	1E	83	
+-----------------------------
+get data from ID: AA   Time: 47252
+1E	DF	1E	DD	1E	DF	1E	DD	
+-----------------------------
+get data from ID: AA   Time: 47662
+1F	41	1F	47	1F	3B	1F	3F	
+-----------------------------
+get data from ID: AA   Time: 48070
+1F	9B	1F	A0	1F	9F	1F	9A	
+-----------------------------
+get data from ID: AA   Time: 48480
+1F	F9	1F	F6	1F	FC	1F	F9	
+-----------------------------
+get data from ID: AA   Time: 48888
+20	55	20	46	20	4D	20	48	
+-----------------------------
+get data from ID: AA   Time: 49298
+20	9B	20	98	20	95	20	90	
+-----------------------------
+get data from ID: AA   Time: 49707
+20	CD	20	C7	20	CC	20	C4	
+-----------------------------
+get data from ID: AA   Time: 50116
+20	F5	20	EC	20	F9	20	F0	
+-----------------------------
+get data from ID: AA   Time: 50514
+0	0	0	0	0	B1	
+-----------------------------
+get data from ID: AA   Time: 50911
+21	41	21	41	21	3F	21	3C	
+-----------------------------
+get data from ID: AA   Time: 51320
+21	63	21	58	21	59	21	5C	
+-----------------------------
+get data from ID: AA   Time: 51729
+21	8C	21	7C	21	88	21	86	
+-----------------------------
+get data from ID: AA   Time: 52139
+21	B3	21	A7	21	AE	21	AB	
+-----------------------------
+get data from ID: AA   Time: 52548
+21	D1	21	CD	21	D1	21	D1	
+-----------------------------
+get data from ID: AA   Time: 52957
+21	DE	21	D3	21	DC	21	D9	
+-----------------------------
+get data from ID: AA   Time: 53366
+21	88	21	7D	21	84	21	83	
+-----------------------------
+get data from ID: AA   Time: 53776
+21	1B	20	CD	21	D	20	D4	
+-----------------------------
+get data from ID: AA   Time: 54184
+20	C1	20	2D	20	AD	20	18	
+-----------------------------
+get data from ID: AA   Time: 54594
+20	5F	1F	A5	20	3A	1F	7C	
+-----------------------------
+get data from ID: AA   Time: 55003
+20	C	1F	3E	1F	DF	1F	7	
+-----------------------------
+get data from ID: AA   Time: 55412
+1F	E6	1F	11	1F	B5	1E	CF	
+-----------------------------
+get data from ID: AA   Time: 55821
+1F	EB	1F	A	1F	A9	1E	BD	
+-----------------------------
+get data from ID: AA   Time: 56230
+20	7	1F	1A	1F	BD	1E	D5	
+-----------------------------
+get data from ID: AA   Time: 56628
+0	0	0	0	0	B1	
+-----------------------------
+get data from ID: AA   Time: 57025
+1F	C5	1E	E4	1F	8D	1E	9C	
+-----------------------------
+get data from ID: AA   Time: 57435
+1F	18	1E	68	1E	EE	1E	32	
+-----------------------------
+get data from ID: AA   Time: 57844
+1E	62	1D	E7	1E	4A	1D	D2	
+-----------------------------
+get data from ID: AA   Time: 58253
+1D	CD	1D	86	1D	C6	1D	76	
+-----------------------------
+get data from ID: AA   Time: 58661
+1D	80	1D	4D	1D	77	1D	45	
+-----------------------------
+get data from ID: AA   Time: 59071
+1D	57	1D	36	1D	50	1D	31	
+-----------------------------
+get data from ID: AA   Time: 59480
+1D	32	1D	2D	1D	31	1D	28	
+-----------------------------
+get data from ID: AA   Time: 59889
+1D	9	1D	14	1D	5	1D	16	
+-----------------------------
+get data from ID: AA   Time: 60286
+0	0	0	0	0	B1	
+-----------------------------
+get data from ID: AA   Time: 60684
+1C	53	1C	67	1C	50	1C	69	
+-----------------------------
+get data from ID: AA   Time: 61092
+1C	C	1C	29	1C	1	1C	1D	
+-----------------------------
+get data from ID: AA   Time: 61502
+1C	22	1C	4C	1C	1B	1C	42	
+-----------------------------
+get data from ID: AA   Time: 61911
+1C	45	1C	84	1C	36	1C	77	
+-----------------------------
+get data from ID: AA   Time: 62320
+1C	5F	1C	B4	1C	46	1C	9D	
+-----------------------------
+get data from ID: AA   Time: 62729
+1C	7B	1C	E3	1C	52	1C	C4	
+-----------------------------
+get data from ID: AA   Time: 63138
+1C	8A	1C	FE	1C	55	1C	D3	
+-----------------------------
+get data from ID: AA   Time: 63548
+1C	89	1C	FF	1C	53	1C	D8	
+-----------------------------
+get data from ID: AA   Time: 63956
+1C	7E	1C	F7	1C	4B	1C	CB	
+-----------------------------
+get data from ID: AA   Time: 64366
+1C	6D	1C	DE	1C	3C	1C	B6	
+-----------------------------
+get data from ID: AA   Time: 64775
+1C	69	1C	DE	1C	38	1C	B4	
+-----------------------------
+get data from ID: AA   Time: 65184
+1C	61	1C	D9	1C	26	1C	AB	
+-----------------------------
+get data from ID: AA   Time: 65593
+1C	4A	1C	BD	1C	15	1C	90	
+-----------------------------
+get data from ID: AA   Time: 66002
+1C	2	1C	5D	1B	D2	1C	3B	
+-----------------------------
+get data from ID: AA   Time: 66412
+1B	9B	1B	DF	1B	77	1B	C6	
+-----------------------------
+get data from ID: AA   Time: 66821
+1B	3A	1B	6D	1B	23	1B	54	
+-----------------------------
+get data from ID: AA   Time: 67230
+1B	2E	1B	5C	1B	18	1B	49	
+-----------------------------
+get data from ID: AA   Time: 67639
+1B	43	1B	77	1B	2D	1B	64	
+-----------------------------
+get data from ID: AA   Time: 68048
+1B	58	1B	8E	1B	3E	1B	7A	
+-----------------------------
+get data from ID: AA   Time: 68458
+1B	73	1B	AA	1B	5F	1B	97	
+-----------------------------
+get data from ID: AA   Time: 68867
+1B	95	1B	C8	1B	86	1B	BA	
+-----------------------------
+get data from ID: AA   Time: 69276
+1B	C1	1B	F3	1B	B2	1B	E5	
+-----------------------------
+get data from ID: AA   Time: 69686
+1C	1D	1C	43	1C	17	1C	3A	
+-----------------------------
+get data from ID: AA   Time: 70094
+1C	7E	1C	81	1C	7B	1C	80	
+-----------------------------
+get data from ID: AA   Time: 70504
+1C	BE	1C	85	1C	B6	1C	7C	
+-----------------------------
+get data from ID: AA   Time: 70914
+1C	E3	1C	8B	1C	CC	1C	6C	
+-----------------------------
+get data from ID: AA   Time: 71310
+0	0	0	0	0	B1	
+-----------------------------
+get data from ID: AA   Time: 71707
+1D	1B	1C	A1	1C	EE	1C	68	
+-----------------------------
+get data from ID: AA   Time: 72116
+1D	2A	1C	A7	1C	F4	1C	69	
+-----------------------------
+get data from ID: AA   Time: 72525
+1D	39	1C	AB	1D	1	1C	67	
+-----------------------------
+get data from ID: AA   Time: 72935
+1D	45	1C	B6	1D	B	1C	68	
+-----------------------------
+get data from ID: AA   Time: 73344
+1D	4B	1C	BD	1D	15	1C	70	
+-----------------------------
+get data from ID: AA   Time: 73753
+1D	5B	1C	C9	1D	20	1C	82	
+-----------------------------
+get data from ID: AA   Time: 74162
+1D	5F	1C	D8	1D	33	1C	A5	
+-----------------------------
+get data from ID: AA   Time: 74571
+1D	71	1C	F2	1D	4E	1C	C8	
+-----------------------------
+get data from ID: AA   Time: 74980
+1D	89	1D	14	1D	6E	1C	EA	
+-----------------------------
+get data from ID: AA   Time: 75389
+1D	9F	1D	25	1D	82	1D	C	
+-----------------------------
+get data from ID: AA   Time: 75798
+1D	A6	1D	3D	1D	93	1D	20	
+-----------------------------
+get data from ID: AA   Time: 76208
+1D	A7	1D	40	1D	92	1D	29	
+-----------------------------
+get data from ID: AA   Time: 76616
+1D	5D	1D	25	1D	61	1D	29	
+-----------------------------
+get data from ID: AA   Time: 77026
+1C	CE	1C	C4	1C	C8	1C	C5	
+-----------------------------
+get data from ID: AA   Time: 77435
+1C	46	1C	41	1C	47	1C	45	
+-----------------------------
+get data from ID: AA   Time: 77844
+1B	A1	1B	A3	1B	9B	1B	9F	
+-----------------------------
+get data from ID: AA   Time: 78254
+1A	EE	1A	F3	1A	F6	1A	FB	
+-----------------------------
+get data from ID: AA   Time: 78662
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 79072
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 79481
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 79890
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 80300
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 80708
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 81118
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 81527
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 81936
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 82345
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 82755
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 83164
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 83573
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 83983
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 84391
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 84801
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 85210
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 85607
+0	0	0	0	0	B1	
+-----------------------------
+get data from ID: AA   Time: 86004
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 86414
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 86811
+0	0	0	0	0	B1	
+-----------------------------
+get data from ID: AA   Time: 87208
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 87617
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 88027
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 88435
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 88845
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 89254
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 89663
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 90073
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 90481
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 90891
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 91300
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 91709
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 92119
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 92527
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 92937
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 93346
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 93755
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 94164
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 94574
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 94983
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 95392
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 95801
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 96198
+0	0	0	0	0	B1	
+-----------------------------
+get data from ID: AA   Time: 96595
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 97004
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 97414
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 97823
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 98232
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 98641
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 99050
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 99460
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 99868
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 100278
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 100686
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 101096
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 101506
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 101915
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 102324
+1A	FD	1A	FD	1B	8	1B	5	
+-----------------------------
+get data from ID: AA   Time: 102733
+1B	58	1B	5D	1B	59	1B	58	
+-----------------------------
+get data from ID: AA   Time: 103143
+1B	B2	1B	B1	1B	B3	1B	B1	
+-----------------------------
+get data from ID: AA   Time: 103553
+1C	3	1C	1	1C	1	1B	FF	
+-----------------------------
+get data from ID: AA   Time: 103949
+0	0	0	0	0	B1	
+-----------------------------
+get data from ID: AA   Time: 104346
+1C	DD	1C	D6	1C	DA	1C	D6	
+-----------------------------
+get data from ID: AA   Time: 104755
+1D	65	1D	61	1D	5F	1D	5E	
+-----------------------------
+get data from ID: AA   Time: 105164
+1D	CD	1D	C6	1D	CF	1D	C7	
+-----------------------------
+get data from ID: AA   Time: 105573
+1E	22	1E	1A	1E	28	1E	1B	
+-----------------------------
+get data from ID: AA   Time: 105982
+1E	5A	1E	54	1E	58	1E	55	
+-----------------------------
+get data from ID: AA   Time: 106392
+1E	76	1E	69	1E	6C	1E	6C	
+-----------------------------
+get data from ID: AA   Time: 106801
+1E	87	1E	7C	1E	86	1E	82	
+-----------------------------
+get data from ID: AA   Time: 107210
+1E	9D	1E	93	1E	9A	1E	90	
+-----------------------------
+get data from ID: AA   Time: 107619
+1E	AE	1E	AA	1E	B2	1E	AC	
+-----------------------------
+get data from ID: AA   Time: 108028
+1E	C4	1E	B2	1E	C3	1E	B5	
+-----------------------------
+get data from ID: AA   Time: 108438
+1E	DA	1E	EE	1E	DE	1E	CC	
+-----------------------------
+get data from ID: AA   Time: 108847
+1E	EF	1E	E7	1E	E9	1E	EA	
+-----------------------------
+get data from ID: AA   Time: 109256
+1F	D	1F	7	1E	D8	1E	EC	
+-----------------------------
+get data from ID: AA   Time: 109665
+1F	C	1F	7	1F	C	1F	F	
+-----------------------------
+get data from ID: AA   Time: 110062
+0	0	0	0	0	B1	
+-----------------------------
+get data from ID: AA   Time: 110459
+1E	FB	1F	1	1F	1	1E	F6	
+-----------------------------
+get data from ID: AA   Time: 110868
+1E	F1	1E	F3	1E	EF	1E	ED	
+-----------------------------
+get data from ID: AA   Time: 111278
+1E	E2	1E	E2	1E	DE	1E	D4	
+-----------------------------
+get data from ID: AA   Time: 111687
+1E	D4	1E	D9	1E	D0	1E	D4	
+-----------------------------
+get data from ID: AA   Time: 112096
+1E	D5	1E	E4	1E	D8	1E	E0	
+-----------------------------
+get data from ID: AA   Time: 112505
+1E	F4	1E	F2	1E	F4	1E	FA	
+-----------------------------
+get data from ID: AA   Time: 112914
+1F	7	1F	8	1F	8	1F	B	
+-----------------------------
+get data from ID: AA   Time: 113324
+1F	1A	1F	1C	1F	1D	1F	13	
+-----------------------------
+get data from ID: AA   Time: 113733
+1F	33	1F	29	1F	26	1F	31	
+-----------------------------
+get data from ID: AA   Time: 114142
+1F	3E	1F	39	1F	3F	1F	42	
+-----------------------------
+get data from ID: AA   Time: 114551
+1F	55	1F	52	1F	5B	1F	53	
+-----------------------------
+get data from ID: AA   Time: 114960
+1F	6C	1F	70	1F	65	1F	63	
+-----------------------------
+get data from ID: AA   Time: 115369
+1F	82	1F	84	1F	80	1F	8A	
+-----------------------------
+get data from ID: AA   Time: 115779
+1F	98	1F	A8	1F	9C	1F	A4	
+-----------------------------
+get data from ID: AA   Time: 116188
+1F	B6	1F	BE	1F	B6	1F	BD	
+-----------------------------
+get data from ID: AA   Time: 116597
+1F	D4	1F	D9	1F	CE	1F	DE	
+-----------------------------
+get data from ID: AA   Time: 117007
+1F	EB	1F	F2	1F	ED	1F	EE	
+-----------------------------
+get data from ID: AA   Time: 117415
+20	9	20	D	1F	FF	20	B	
+-----------------------------
+get data from ID: AA   Time: 117825
+20	1D	20	24	20	1E	20	1E	
+-----------------------------
+get data from ID: AA   Time: 118234
+20	36	20	3F	20	36	20	39	
+-----------------------------
+get data from ID: AA   Time: 118643
+20	27	20	2E	20	33	20	32	
+-----------------------------
+get data from ID: AA   Time: 119052
+1F	DC	1F	E5	1F	E1	1F	E0	
+-----------------------------
+get data from ID: AA   Time: 119461
+1F	7B	1F	81	1F	7B	1F	7B	
+-----------------------------
+get data from ID: AA   Time: 119871
+1F	19	1F	14	1F	13	1F	19	
+-----------------------------
+get data from ID: AA   Time: 120280
+1E	C0	1E	C5	1E	BE	1E	B8	
+-----------------------------
+get data from ID: AA   Time: 120689
+1E	BF	1E	BB	1E	BC	1E	B9	
+-----------------------------
+get data from ID: AA   Time: 121098
+1E	CF	1E	CA	1E	CD	1E	CA	
+-----------------------------
+get data from ID: AA   Time: 121507
+1E	E2	1E	E0	1E	E1	1E	DD	
+-----------------------------
+get data from ID: AA   Time: 121916
+1E	F3	1E	ED	1E	EF	1E	EE	
+-----------------------------
+get data from ID: AA   Time: 122326
+1E	F9	1E	FB	1E	F3	1E	F2	
+-----------------------------
+get data from ID: AA   Time: 122734
+1F	5	1F	2	1F	5	1E	FD	
+-----------------------------
+get data from ID: AA   Time: 123144
+1F	7	1F	7	1F	16	1F	B	
+-----------------------------
+get data from ID: AA   Time: 123552
+1F	19	1F	15	1F	15	1F	13	
+-----------------------------
+get data from ID: AA   Time: 123962
+1F	25	1F	1E	1F	1D	1F	20	
+-----------------------------
+get data from ID: AA   Time: 124371
+1F	26	1F	1E	1F	21	1F	1E	
+-----------------------------
+get data from ID: AA   Time: 124780
+1F	27	1F	2A	1F	2B	1F	25	
+-----------------------------
+get data from ID: AA   Time: 125189
+1F	31	1F	2F	1F	2A	1F	28	
+-----------------------------
+get data from ID: AA   Time: 125598
+1F	38	1F	3A	1F	36	1F	30	
+-----------------------------
+get data from ID: AA   Time: 126007
+1F	43	1F	3B	1F	3F	1F	35	
+-----------------------------
+get data from ID: AA   Time: 126416
+1F	3F	1F	36	1F	41	1F	3A	
+-----------------------------
+get data from ID: AA   Time: 126826
+1F	40	1F	3D	1F	3A	1F	39	
+-----------------------------
+get data from ID: AA   Time: 127235
+1F	44	1F	41	1F	43	1F	42	
+-----------------------------
+get data from ID: AA   Time: 127643
+1F	4F	1F	4B	1F	4D	1F	44	
+-----------------------------
+get data from ID: AA   Time: 128053
+1F	50	1F	48	1F	4B	1F	41	
+-----------------------------
+get data from ID: AA   Time: 128462
+1F	56	1F	4E	1F	51	1F	47	
+-----------------------------
+get data from ID: AA   Time: 128871
+1F	4F	1F	47	1F	4B	1F	4F	
+-----------------------------
+get data from ID: AA   Time: 129281
+1F	4F	1F	49	1F	48	1F	4A	
+-----------------------------
+get data from ID: AA   Time: 129689
+1F	55	1F	49	1F	57	1F	51	
+-----------------------------
+get data from ID: AA   Time: 130099
+1F	53	1F	4C	1F	51	1F	54	
+-----------------------------
+get data from ID: AA   Time: 130508
+1F	54	1F	5A	1F	54	1F	51	
+-----------------------------
+get data from ID: AA   Time: 130917
+1F	5B	1F	51	1F	59	1F	51	
+-----------------------------
+get data from ID: AA   Time: 131326
+1F	5E	1F	55	1F	5A	1F	51	
+-----------------------------
+get data from ID: AA   Time: 131735
+1F	5A	1F	4F	1F	59	1F	52	
+-----------------------------
+get data from ID: AA   Time: 132145
+1F	4F	1F	46	1F	4F	1F	49	
+-----------------------------
+get data from ID: AA   Time: 132554
+1F	4D	1F	44	1F	46	1F	4C	
+-----------------------------
+get data from ID: AA   Time: 132963
+1F	44	1F	49	1F	3B	1F	4C	
+-----------------------------
+get data from ID: AA   Time: 133372
+1F	40	1F	42	1F	39	1F	46	
+-----------------------------
+get data from ID: AA   Time: 133781
+1F	4B	1F	3D	1F	34	1F	3D	
+-----------------------------
+get data from ID: AA   Time: 134191
+1F	2C	1F	34	1F	2B	1F	2D	
+-----------------------------
+get data from ID: AA   Time: 134600
+1F	20	1F	22	1F	B	1F	1E	
+-----------------------------
+get data from ID: AA   Time: 135009
+1F	8	1F	9	1F	6	1F	3	
+-----------------------------
+get data from ID: AA   Time: 135418
+1E	FB	1E	F7	1E	F4	1E	F8	
+-----------------------------
+get data from ID: AA   Time: 135827
+1E	E9	1E	E8	1E	E4	1E	D4	
+-----------------------------
+get data from ID: AA   Time: 136237
+1E	DA	1E	D7	1E	DE	1E	D7	
+-----------------------------
+get data from ID: AA   Time: 136645
+1E	C9	1E	CE	1E	C9	1E	CD	
+-----------------------------
+get data from ID: AA   Time: 137055
+1E	C0	1E	C7	1E	BA	1E	C9	
+-----------------------------
+get data from ID: AA   Time: 137463
+1E	C8	1E	B9	1E	C1	1E	B9	
+-----------------------------
+get data from ID: AA   Time: 137873
+1E	C0	1E	C3	1E	C9	1E	BF	
+-----------------------------
+get data from ID: AA   Time: 138283
+1E	CB	1E	D2	1E	CB	1E	CB	
+-----------------------------
+get data from ID: AA   Time: 138691
+1E	D3	1E	D6	1E	D1	1E	D4	
+-----------------------------
+get data from ID: AA   Time: 139101
+1E	D3	1E	E0	1E	E1	1E	DE	
+-----------------------------
+get data from ID: AA   Time: 139509
+1E	DF	1E	DA	1E	DC	1E	DD	
+-----------------------------
+get data from ID: AA   Time: 139919
+1E	D0	1E	CE	1E	D2	1E	D1	
+-----------------------------
+get data from ID: AA   Time: 140327
+1E	CB	1E	CE	1E	C7	1E	C2	
+-----------------------------
+get data from ID: AA   Time: 140737
+1E	B7	1E	BF	1E	C1	1E	B7	
+-----------------------------
+get data from ID: AA   Time: 141147
+1E	AF	1E	B5	1E	B7	1E	B2	
+-----------------------------
+get data from ID: AA   Time: 141555
+1E	9F	1E	9E	1E	92	1E	90	
+-----------------------------
+get data from ID: AA   Time: 141965
+1E	96	1E	8E	1E	8B	1E	8D	
+-----------------------------
+get data from ID: AA   Time: 142373
+1E	7B	1E	76	1E	80	1E	79	
+-----------------------------
+get data from ID: AA   Time: 142783
+1E	79	1E	73	1E	73	1E	76	
+-----------------------------
+get data from ID: AA   Time: 143192
+1E	67	1E	6A	1E	6F	1E	65	
+-----------------------------
+get data from ID: AA   Time: 143601
+1E	64	1E	5D	1E	60	1E	4B	
+-----------------------------
+get data from ID: AA   Time: 144011
+1E	59	1E	58	1E	59	1E	58	
+-----------------------------
+get data from ID: AA   Time: 144419
+1E	58	1E	58	1E	55	1E	54	
+-----------------------------
+get data from ID: AA   Time: 144829
+1E	58	1E	59	1E	5E	1E	56	
+-----------------------------
+get data from ID: AA   Time: 145239
+1E	5B	1E	57	1E	5D	1E	59	
+-----------------------------
+get data from ID: AA   Time: 145647
+1E	5F	1E	5B	1E	5B	1E	5B	
+-----------------------------
+get data from ID: AA   Time: 146057
+1E	5A	1E	59	1E	4D	1E	57	
+-----------------------------
+get data from ID: AA   Time: 146465
+1E	5E	1E	57	1E	5C	1E	5B	
+-----------------------------
+get data from ID: AA   Time: 146875
+1E	61	1E	5B	1E	5E	1E	60	
+-----------------------------
+get data from ID: AA   Time: 147284
+1E	64	1E	64	1E	66	1E	68	
+-----------------------------
+get data from ID: AA   Time: 147693
+1E	7E	1E	86	1E	79	1E	7B	
+-----------------------------
+get data from ID: AA   Time: 148103
+1E	EF	1E	EF	1E	E5	1E	EC	
+-----------------------------
+get data from ID: AA   Time: 148511
+1F	59	1F	58	1F	4F	1F	53	
+-----------------------------
+get data from ID: AA   Time: 148921
+1F	C1	1F	BB	1F	B8	1F	B9	
+-----------------------------
+get data from ID: AA   Time: 149330
+20	28	20	2A	20	26	20	28	
+-----------------------------
+get data from ID: AA   Time: 149739
+20	8B	20	8D	20	8A	20	82	
+-----------------------------
+get data from ID: AA   Time: 150149
+20	E3	20	E9	20	E9	20	E6	
+-----------------------------
+get data from ID: AA   Time: 150557
+21	30	21	26	21	24	21	25	
+-----------------------------
+get data from ID: AA   Time: 150967
+21	36	21	38	21	35	21	2F	
+-----------------------------
+get data from ID: AA   Time: 151376
+21	29	21	29	21	23	21	25	
+-----------------------------
+get data from ID: AA   Time: 151785
+21	1E	21	2A	21	22	21	26	
+-----------------------------
+get data from ID: AA   Time: 152195
+21	16	21	17	21	18	21	1E	
+-----------------------------
+get data from ID: AA   Time: 152603
+21	3D	21	36	21	25	21	29	
+-----------------------------
+get data from ID: AA   Time: 153013
+21	18	21	3C	21	20	21	2C	
+-----------------------------
+get data from ID: AA   Time: 153422
+21	F	21	13	21	13	21	10	
+-----------------------------
+get data from ID: AA   Time: 153820
+0	0	0	0	0	B1	
+-----------------------------
+get data from ID: AA   Time: 154216
+20	EA	20	E5	20	E5	20	E9	
+-----------------------------
+get data from ID: AA   Time: 154626
+20	E1	20	DF	20	E1	20	E2	
+-----------------------------
+get data from ID: AA   Time: 155035
+20	DF	20	E0	20	D2	20	DC	
+-----------------------------
+get data from ID: AA   Time: 155444
+20	D0	20	E8	20	DB	20	DC	
+-----------------------------
+get data from ID: AA   Time: 155853
+20	D1	20	CB	20	DA	20	D4	
+-----------------------------
+get data from ID: AA   Time: 156262
+20	CB	20	D6	20	D5	20	C8	
+-----------------------------
+get data from ID: AA   Time: 156672
+20	C5	20	C3	20	CC	20	CF	
+-----------------------------
+get data from ID: AA   Time: 157080
+20	C3	20	C6	20	CB	20	C4	
+-----------------------------
+get data from ID: AA   Time: 157490
+20	CD	20	BD	20	C8	20	C0	
+-----------------------------
+get data from ID: AA   Time: 157899
+20	C7	20	BA	20	C6	20	BA	
+-----------------------------
+get data from ID: AA   Time: 158308
+20	BC	20	B7	20	C0	20	B9	
+-----------------------------
+get data from ID: AA   Time: 158717
+20	C4	20	B6	20	B9	20	AF	
+-----------------------------
+get data from ID: AA   Time: 159127
+20	B1	20	A7	20	B5	20	AB	
+-----------------------------
+get data from ID: AA   Time: 159536
+20	AF	20	AC	20	AF	20	A4	
+-----------------------------
+get data from ID: AA   Time: 159945
+20	B0	20	A6	20	AD	20	AD	
+-----------------------------
+get data from ID: AA   Time: 160355
+20	A7	20	A0	20	A8	20	A1	
+-----------------------------
+get data from ID: AA   Time: 160763
+20	A4	20	9C	20	9D	20	97	
+-----------------------------
+get data from ID: AA   Time: 161173
+20	9B	20	A1	20	9B	20	9B	
+-----------------------------
+get data from ID: AA   Time: 161583
+20	9C	20	9B	20	94	20	90	
+-----------------------------
+get data from ID: AA   Time: 161991
+20	93	20	93	20	88	20	90	
+-----------------------------
+get data from ID: AA   Time: 162401
+20	8D	20	91	20	8C	20	96	
+-----------------------------
+get data from ID: AA   Time: 162809
+20	84	20	8B	20	75	20	91	
+-----------------------------
+get data from ID: AA   Time: 163219
+20	87	20	8F	20	8A	20	90	
+-----------------------------
+get data from ID: AA   Time: 163629
+20	89	20	94	20	87	20	93	
+-----------------------------
+get data from ID: AA   Time: 164038
+20	96	20	95	20	8D	20	93	
+-----------------------------
+get data from ID: AA   Time: 164447
+20	8D	20	92	20	8B	20	8D	
+-----------------------------
+get data from ID: AA   Time: 164856
+20	8C	20	9A	20	93	20	93	
+-----------------------------
+get data from ID: AA   Time: 165266
+20	A2	20	A1	20	A3	20	A2	
+-----------------------------
+get data from ID: AA   Time: 165676
+20	B8	20	B5	20	B8	20	B6	
+-----------------------------
+get data from ID: AA   Time: 166084
+20	C4	20	C8	20	CB	20	C1	
+-----------------------------
+get data from ID: AA   Time: 166494
+20	BE	20	C0	20	C2	20	BA	
+-----------------------------
+get data from ID: AA   Time: 166902
+20	BC	20	B4	20	B7	20	AC	
+-----------------------------
+get data from ID: AA   Time: 167312
+20	AA	20	A6	20	A9	20	9E	
+-----------------------------
+get data from ID: AA   Time: 167721
+20	A5	20	A2	20	A1	20	9E	
+-----------------------------
+get data from ID: AA   Time: 168130
+20	A1	20	9C	20	A2	20	9D	
+-----------------------------
+get data from ID: AA   Time: 168540
+20	9B	20	98	20	A1	20	95	
+-----------------------------
+get data from ID: AA   Time: 168948
+20	90	20	80	20	90	20	7E	
+-----------------------------
+get data from ID: AA   Time: 169358
+20	42	20	2A	20	40	20	26	
+-----------------------------
+get data from ID: AA   Time: 169767
+1F	A1	1F	84	1F	A1	1F	84	
+-----------------------------
+get data from ID: AA   Time: 170176
+1E	D1	1E	BF	1E	DC	1E	B5	
+-----------------------------
+get data from ID: AA   Time: 170586
+1D	CC	1D	C2	1D	C8	1D	C4	
+-----------------------------
+get data from ID: AA   Time: 170994
+1C	D4	1C	C6	1C	D1	1C	C2	
+-----------------------------
+get data from ID: AA   Time: 171404
+1B	F9	1B	EE	1B	F2	1B	F0	
+-----------------------------
+get data from ID: AA   Time: 171813
+1B	7B	1B	7A	1B	7F	1B	7D	
+-----------------------------
+get data from ID: AA   Time: 172222
+1B	2D	1B	2D	1B	2B	1B	2A	
+-----------------------------
+get data from ID: AA   Time: 172632
+1A	E1	1A	DF	1A	E8	1A	E2	
+-----------------------------
+get data from ID: AA   Time: 173040
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 173450
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 173858
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 174268
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 174678
+1A	C5	1A	C5	1A	C8	1A	C6	
+-----------------------------
+get data from ID: AA   Time: 175086
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 175496
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 175905
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 176314
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 176723
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 177132
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 177542
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 177951
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 178361
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 178769
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 179179
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 179588
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 179997
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 180406
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 180815
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 181225
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 181634
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 182043
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 182452
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 182861
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 183271
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 183680
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 184089
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 184499
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 184907
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 185317
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 185725
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 186135
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 186545
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 186953
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 187363
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 187771
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 188181
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 188590
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 188999
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 189409
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 189818
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 190227
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 190637
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 191046
+1A	D8	1A	D6	1A	DA	1A	D6	
+-----------------------------
+get data from ID: AA   Time: 191455
+1B	11	1B	11	1B	14	1B	10	
+-----------------------------
+get data from ID: AA   Time: 191864
+1B	9C	1B	9D	1B	97	1B	9B	
+-----------------------------
+get data from ID: AA   Time: 192273
+1C	42	1C	44	1C	3B	1C	48	
+-----------------------------
+get data from ID: AA   Time: 192683
+1C	C7	1C	CF	1C	BA	1C	D4	
+-----------------------------
+get data from ID: AA   Time: 193092
+1D	10	1D	6B	1D	0	1D	57	
+-----------------------------
+get data from ID: AA   Time: 193501
+1D	6	1D	B7	1C	C6	1D	83	
+-----------------------------
+get data from ID: AA   Time: 193910
+1C	FF	1D	C0	1C	5B	1D	54	
+-----------------------------
+get data from ID: AA   Time: 194320
+1C	E8	1D	9E	1C	60	1D	3C	
+-----------------------------
+get data from ID: AA   Time: 194728
+1D	21	1D	E6	1C	8F	1D	77	
+-----------------------------
+get data from ID: AA   Time: 195138
+1D	6D	1E	45	1C	D2	1D	CC	
+-----------------------------
+get data from ID: AA   Time: 195547
+1D	C1	1E	A2	1D	45	1E	48	
+-----------------------------
+get data from ID: AA   Time: 195956
+1E	32	1E	F4	1D	F7	1E	A0	
+-----------------------------
+get data from ID: AA   Time: 196366
+1E	B3	1F	3A	1E	A2	1F	D	
+-----------------------------
+get data from ID: AA   Time: 196774
+1F	1D	1F	7F	1F	14	1F	75	
+-----------------------------
+get data from ID: AA   Time: 197184
+1F	81	1F	D2	1F	7C	1F	C2	
+-----------------------------
+get data from ID: AA   Time: 197593
+1F	E1	20	12	1F	DB	20	A	
+-----------------------------
+get data from ID: AA   Time: 198002
+20	47	20	60	20	3E	20	57	
+-----------------------------
+get data from ID: AA   Time: 198411
+20	B3	20	B9	20	B4	20	B9	
+-----------------------------
+get data from ID: AA   Time: 198820
+21	1F	21	23	21	17	21	16	
+-----------------------------
+get data from ID: AA   Time: 199230
+21	8C	21	85	21	85	21	79	
+-----------------------------
+get data from ID: AA   Time: 199639
+21	EA	21	E3	21	E0	21	D3	
+-----------------------------
+get data from ID: AA   Time: 200048
+22	3E	22	33	22	35	22	26	
+-----------------------------
+get data from ID: AA   Time: 200457
+22	77	22	78	22	6F	22	74	
+-----------------------------
+get data from ID: AA   Time: 200866
+22	B6	22	B6	22	AE	22	B0	
+-----------------------------
+get data from ID: AA   Time: 201276
+22	F7	22	F0	22	E5	22	EF	
+-----------------------------
+get data from ID: AA   Time: 201684
+23	2F	23	32	23	15	23	D	
+-----------------------------
+get data from ID: AA   Time: 202094
+23	5C	23	53	23	63	23	4F	
+-----------------------------
+get data from ID: AA   Time: 202504
+23	63	23	60	23	65	23	62	
+-----------------------------
+get data from ID: AA   Time: 202912
+23	53	23	4D	23	50	23	4D	
+-----------------------------
+get data from ID: AA   Time: 203322
+23	43	23	3D	23	3B	23	3A	
+-----------------------------
+get data from ID: AA   Time: 203731
+23	35	23	32	23	28	23	3C	
+-----------------------------
+get data from ID: AA   Time: 204140
+23	4A	23	4A	23	43	23	42	
+-----------------------------
+get data from ID: AA   Time: 204550
+23	59	23	4F	23	58	23	50	
+-----------------------------
+get data from ID: AA   Time: 204958
+23	4E	23	4D	23	4D	23	4A	
+-----------------------------
+get data from ID: AA   Time: 205368
+23	3A	23	35	23	3D	23	38	
+-----------------------------
+get data from ID: AA   Time: 205777
+23	42	23	32	23	2C	23	22	
+-----------------------------
+get data from ID: AA   Time: 206186
+22	E1	23	2	22	FE	23	0	
+-----------------------------
+get data from ID: AA   Time: 206595
+22	AE	22	AA	22	BE	22	B2	
+-----------------------------
+get data from ID: AA   Time: 207004
+22	F	21	FD	22	9	21	FE	
+-----------------------------
+get data from ID: AA   Time: 207401
+0	0	0	0	0	B1	
+-----------------------------
+get data from ID: AA   Time: 207799
+20	3E	20	47	20	C8	20	52	
+-----------------------------
+get data from ID: AA   Time: 208207
+1F	5C	1F	7E	1F	8E	1F	71	
+-----------------------------
+get data from ID: AA   Time: 208617
+1E	FC	1E	FD	1E	FE	1E	FD	
+-----------------------------
+get data from ID: AA   Time: 209026
+1E	D7	1E	D4	1E	DB	1E	ED	
+-----------------------------
+get data from ID: AA   Time: 209435
+1E	EC	1E	BF	1E	DA	1E	CA	
+-----------------------------
+get data from ID: AA   Time: 209845
+1F	7	1E	9A	1E	F0	1E	98	
+-----------------------------
+get data from ID: AA   Time: 210254
+1F	66	1E	CB	1F	49	1E	A8	
+-----------------------------
+get data from ID: AA   Time: 210663
+1F	C7	1F	9	1F	99	1E	D7	
+-----------------------------
+get data from ID: AA   Time: 211073
+20	10	1F	46	1F	EA	1F	1	
+-----------------------------
+get data from ID: AA   Time: 211481
+20	5E	1F	7A	20	45	1F	37	
+-----------------------------
+get data from ID: AA   Time: 211891
+20	A3	1F	BC	20	68	1F	81	
+-----------------------------
+get data from ID: AA   Time: 212300
+20	F5	20	F	20	C2	1F	D3	
+-----------------------------
+get data from ID: AA   Time: 212709
+21	65	20	84	21	26	20	61	
+-----------------------------
+get data from ID: AA   Time: 213118
+21	A9	20	E6	21	94	20	D1	
+-----------------------------
+get data from ID: AA   Time: 213527
+21	98	21	41	21	B0	21	5B	
+-----------------------------
+get data from ID: AA   Time: 213937
+21	CB	21	A3	21	C5	21	97	
+-----------------------------
+get data from ID: AA   Time: 214346
+21	D3	21	B9	21	E3	21	BB	
+-----------------------------
+get data from ID: AA   Time: 214755
+21	F8	21	EB	21	F4	21	E5	
+-----------------------------
+get data from ID: AA   Time: 215164
+22	51	22	46	22	43	22	44	
+-----------------------------
+get data from ID: AA   Time: 215574
+22	A4	22	B4	22	A0	22	B5	
+-----------------------------
+get data from ID: AA   Time: 215984
+23	14	23	1F	23	E	23	12	
+-----------------------------
+get data from ID: AA   Time: 216392
+23	78	23	7C	23	71	23	74	
+-----------------------------
+get data from ID: AA   Time: 216802
+23	CB	23	CC	23	C5	23	BF	
+-----------------------------
+get data from ID: AA   Time: 217210
+23	DD	23	CC	23	E3	23	DB	
+-----------------------------
+get data from ID: AA   Time: 217620
+23	D7	23	C9	23	D7	23	CC	
+-----------------------------
+get data from ID: AA   Time: 218030
+23	C4	23	BC	23	BD	23	B2	
+-----------------------------
+get data from ID: AA   Time: 218439
+23	B7	23	A8	23	B1	23	A5	
+-----------------------------
+get data from ID: AA   Time: 218848
+23	B7	23	AD	23	AB	23	AF	
+-----------------------------
+get data from ID: AA   Time: 219257
+23	C6	23	BF	23	BD	23	B2	
+-----------------------------
+get data from ID: AA   Time: 219666
+23	B5	23	B9	23	B8	23	B2	
+-----------------------------
+get data from ID: AA   Time: 220076
+23	B4	23	AF	23	B3	23	AB	
+-----------------------------
+get data from ID: AA   Time: 220484
+23	AE	23	9E	23	A0	23	9C	
+-----------------------------
+get data from ID: AA   Time: 220894
+23	91	23	8F	23	88	23	85	
+-----------------------------
+get data from ID: AA   Time: 221303
+23	6F	23	72	23	76	23	6F	
+-----------------------------
+get data from ID: AA   Time: 221712
+23	68	23	66	23	60	23	5B	
+-----------------------------
+get data from ID: AA   Time: 222121
+23	4E	23	4F	23	4F	23	52	
+-----------------------------
+get data from ID: AA   Time: 222531
+23	3F	23	42	23	42	23	38	
+-----------------------------
+get data from ID: AA   Time: 222940
+23	3A	23	2A	23	33	23	2F	
+-----------------------------
+get data from ID: AA   Time: 223349
+23	28	23	1E	23	1D	23	1B	
+-----------------------------
+get data from ID: AA   Time: 223759
+23	C	23	C	23	7	23	5	
+-----------------------------
+get data from ID: AA   Time: 224167
+22	F8	22	ED	22	F5	22	F8	
+-----------------------------
+get data from ID: AA   Time: 224577
+22	E2	22	E1	22	E1	22	EB	
+-----------------------------
+get data from ID: AA   Time: 224986
+22	D2	22	D9	22	D2	22	D0	
+-----------------------------
+get data from ID: AA   Time: 225395
+22	C8	22	C0	22	BD	22	BF	
+-----------------------------
+get data from ID: AA   Time: 225804
+22	BD	22	C0	22	BB	22	B6	
+-----------------------------
+get data from ID: AA   Time: 226213
+22	EF	22	EE	22	E3	22	DA	
+-----------------------------
+get data from ID: AA   Time: 226623
+23	38	23	33	23	38	23	31	
+-----------------------------
+get data from ID: AA   Time: 227032
+23	96	23	91	23	8C	23	8C	
+-----------------------------
+get data from ID: AA   Time: 227441
+23	E6	23	E5	23	E3	23	D8	
+-----------------------------
+get data from ID: AA   Time: 227850
+24	15	24	17	24	17	24	C	
+-----------------------------
+get data from ID: AA   Time: 228259
+24	3C	24	33	24	2E	24	36	
+-----------------------------
+get data from ID: AA   Time: 228669
+24	6B	24	6F	24	68	24	62	
+-----------------------------
+get data from ID: AA   Time: 229078
+24	C2	24	C3	24	BC	24	AF	
+-----------------------------
+get data from ID: AA   Time: 229487
+25	19	25	15	25	12	25	17	
+-----------------------------
+get data from ID: AA   Time: 229896
+25	7A	25	75	25	72	25	69	
+-----------------------------
+get data from ID: AA   Time: 230305
+25	D4	25	CF	25	C8	25	CD	
+-----------------------------
+get data from ID: AA   Time: 230715
+26	21	26	26	26	1B	26	D	
+-----------------------------
+get data from ID: AA   Time: 231123
+26	65	26	6A	26	63	26	58	
+-----------------------------
+get data from ID: AA   Time: 231533
+26	A4	26	A5	26	A3	26	9F	
+-----------------------------
+get data from ID: AA   Time: 231942
+26	C4	26	C7	26	B0	26	B2	
+-----------------------------
+get data from ID: AA   Time: 232351
+26	A8	26	AD	26	A7	26	A5	
+-----------------------------
+get data from ID: AA   Time: 232760
+26	99	26	9A	26	92	26	99	
+-----------------------------
+get data from ID: AA   Time: 233169
+26	8D	26	8F	26	8C	26	7F	
+-----------------------------
+get data from ID: AA   Time: 233579
+26	78	26	7A	26	72	26	72	
+-----------------------------
+get data from ID: AA   Time: 233988
+26	62	26	5A	26	64	26	5E	
+-----------------------------
+get data from ID: AA   Time: 234397
+26	4A	26	50	26	43	26	48	
+-----------------------------
+get data from ID: AA   Time: 234807
+26	36	26	3E	26	34	26	39	
+-----------------------------
+get data from ID: AA   Time: 235215
+26	26	26	21	26	1C	26	20	
+-----------------------------
+get data from ID: AA   Time: 235625
+26	11	26	B	26	17	26	D	
+-----------------------------
+get data from ID: AA   Time: 236034
+25	F4	25	F5	25	FA	25	F8	
+-----------------------------
+get data from ID: AA   Time: 236443
+25	E9	25	EB	25	DF	25	E6	
+-----------------------------
+get data from ID: AA   Time: 236853
+25	E6	25	E0	25	E2	25	E8	
+-----------------------------
+get data from ID: AA   Time: 237261
+25	E5	25	E5	25	DE	25	E3	
+-----------------------------
+get data from ID: AA   Time: 237671
+25	D6	25	E1	25	E0	25	E3	
+-----------------------------
+get data from ID: AA   Time: 238080
+25	EE	25	E7	25	E6	25	D4	
+-----------------------------
+get data from ID: AA   Time: 238488
+25	F5	25	FA	25	F2	25	F5	
+-----------------------------
+get data from ID: AA   Time: 238898
+26	16	26	13	26	4	26	13	
+-----------------------------
+get data from ID: AA   Time: 239307
+26	2A	26	3A	26	31	26	2B	
+-----------------------------
+get data from ID: AA   Time: 239716
+26	5A	26	53	26	56	26	4B	
+-----------------------------
+get data from ID: AA   Time: 240125
+26	75	26	75	26	6B	26	6D	
+-----------------------------
+get data from ID: AA   Time: 240534
+26	8B	26	80	26	82	26	78	
+-----------------------------
+get data from ID: AA   Time: 240944
+26	9A	26	8F	26	96	26	8E	
+-----------------------------
+get data from ID: AA   Time: 241353
+26	A4	26	B4	26	A8	26	A1	
+-----------------------------
+get data from ID: AA   Time: 241762
+26	B8	26	B3	26	B3	26	AC	
+-----------------------------
+get data from ID: AA   Time: 242171
+26	BC	26	A9	26	B3	26	A1	
+-----------------------------
+get data from ID: AA   Time: 242581
+26	C2	26	C1	26	C3	26	AF	
+-----------------------------
+get data from ID: AA   Time: 242991
+26	F3	26	E5	26	E8	26	D9	
+-----------------------------
+get data from ID: AA   Time: 243399
+27	2A	27	23	27	20	27	19	
+-----------------------------
+get data from ID: AA   Time: 243809
+27	72	27	6C	27	62	27	5E	
+-----------------------------
+get data from ID: AA   Time: 244217
+27	C4	27	C6	27	B4	27	AF	
+-----------------------------
+get data from ID: AA   Time: 244627
+28	3	28	E	27	FD	27	F7	
+-----------------------------
+get data from ID: AA   Time: 245036
+28	67	28	5C	28	56	28	51	
+-----------------------------
+get data from ID: AA   Time: 245445
+28	A9	28	A8	28	A6	28	A5	
+-----------------------------
+get data from ID: AA   Time: 245854
+28	E0	28	F2	28	DE	28	E1	
+-----------------------------
+get data from ID: AA   Time: 246263
+29	D	29	1E	28	FE	29	A	
+-----------------------------
+get data from ID: AA   Time: 246673
+29	34	29	34	29	26	29	28	
+-----------------------------
+get data from ID: AA   Time: 247081
+29	46	29	50	29	3C	29	46	
+-----------------------------
+get data from ID: AA   Time: 247491
+29	4E	29	52	29	43	29	4E	
+-----------------------------
+get data from ID: AA   Time: 247901
+29	30	29	39	29	3B	29	3E	
+-----------------------------
+get data from ID: AA   Time: 248310
+29	1F	29	25	29	1E	29	22	
+-----------------------------
+get data from ID: AA   Time: 248719
+29	18	29	13	29	9	29	16	
+-----------------------------
+get data from ID: AA   Time: 249128
+29	D	29	B	28	FE	29	7	
+-----------------------------
+get data from ID: AA   Time: 249537
+29	1	29	2	28	FF	28	FA	
+-----------------------------
+get data from ID: AA   Time: 249947
+28	F4	28	EA	28	F3	28	F1	
+-----------------------------
+get data from ID: AA   Time: 250356
+28	F2	28	EA	28	E8	28	EA	
+-----------------------------
+get data from ID: AA   Time: 250765
+28	E6	28	EC	28	D7	28	D8	
+-----------------------------
+get data from ID: AA   Time: 251174
+28	DD	28	D6	28	CF	28	CB	
+-----------------------------
+get data from ID: AA   Time: 251583
+28	CE	28	D1	28	CF	28	C6	
+-----------------------------
+get data from ID: AA   Time: 251993
+28	C8	28	CB	28	CD	28	BD	
+-----------------------------
+get data from ID: AA   Time: 252401
+28	CD	28	CC	28	C4	28	C3	
+-----------------------------
+get data from ID: AA   Time: 252811
+28	D3	28	CE	28	D5	28	C6	
+-----------------------------
+get data from ID: AA   Time: 253219
+28	D1	28	D5	28	CE	28	C2	
+-----------------------------
+get data from ID: AA   Time: 253629
+28	C6	28	C1	28	C8	28	BC	
+-----------------------------
+get data from ID: AA   Time: 254039
+28	C4	28	BB	28	BE	28	B5	
+-----------------------------
+get data from ID: AA   Time: 254447
+28	C4	28	BB	28	C3	28	B5	
+-----------------------------
+get data from ID: AA   Time: 254857
+28	BC	28	C3	28	BD	28	BE	
+-----------------------------
+get data from ID: AA   Time: 255266
+28	B9	28	C9	28	C6	28	BC	
+-----------------------------
+get data from ID: AA   Time: 255675
+28	BD	28	BA	28	AC	28	A9	
+-----------------------------
+get data from ID: AA   Time: 256084
+28	96	28	9A	28	8C	28	8B	
+-----------------------------
+get data from ID: AA   Time: 256493
+28	55	28	50	28	5F	28	63	
+-----------------------------
+get data from ID: AA   Time: 256903
+28	20	28	30	28	1C	28	26	
+-----------------------------
+get data from ID: AA   Time: 257312
+27	D7	27	DF	27	E2	27	DF	
+-----------------------------
+get data from ID: AA   Time: 257721
+27	97	27	94	27	9C	27	97	
+-----------------------------
+get data from ID: AA   Time: 258130
+27	69	27	68	27	6D	27	64	
+-----------------------------
+get data from ID: AA   Time: 258539
+27	60	27	65	27	5B	27	58	
+-----------------------------
+get data from ID: AA   Time: 258949
+27	57	27	51	27	4D	27	56	
+-----------------------------
+get data from ID: AA   Time: 259357
+27	3F	27	3A	27	3D	27	2F	
+-----------------------------
+get data from ID: AA   Time: 259767
+27	13	27	13	27	32	27	B	
+-----------------------------
+get data from ID: AA   Time: 260164
+0	0	0	0	0	B1	
+-----------------------------
+get data from ID: AA   Time: 260560
+26	E4	26	F5	26	DD	26	E9	
+-----------------------------
+get data from ID: AA   Time: 260970
+26	C1	26	D0	26	C0	26	DA	
+-----------------------------
+get data from ID: AA   Time: 261380
+26	93	26	C0	26	9D	26	B1	
+-----------------------------
+get data from ID: AA   Time: 261788
+26	68	26	88	26	67	26	81	
+-----------------------------
+get data from ID: AA   Time: 262198
+26	B	26	1A	26	8	26	18	
+-----------------------------
+get data from ID: AA   Time: 262607
+25	9C	25	8D	25	8F	25	8F	
+-----------------------------
+get data from ID: AA   Time: 263017
+25	6	25	B	25	0	24	F5	
+-----------------------------
+get data from ID: AA   Time: 263426
+24	71	24	62	24	6D	24	48	
+-----------------------------
+get data from ID: AA   Time: 263835
+23	E1	23	D2	23	DE	23	CB	
+-----------------------------
+get data from ID: AA   Time: 264245
+23	45	23	30	23	47	23	37	
+-----------------------------
+get data from ID: AA   Time: 264653
+22	A7	22	8E	22	AB	22	8D	
+-----------------------------
+get data from ID: AA   Time: 265063
+21	ED	21	D6	21	F0	21	D8	
+-----------------------------
+get data from ID: AA   Time: 265472
+21	1F	21	6	21	26	21	8	
+-----------------------------
+get data from ID: AA   Time: 265881
+20	48	20	3F	20	49	20	42	
+-----------------------------
+get data from ID: AA   Time: 266290
+1F	53	1F	51	1F	55	1F	4E	
+-----------------------------
+get data from ID: AA   Time: 266699
+1E	4C	1E	4E	1E	4D	1E	4B	
+-----------------------------
+get data from ID: AA   Time: 267108
+1D	50	1D	56	1D	52	1D	55	
+-----------------------------
+get data from ID: AA   Time: 267517
+1C	90	1C	8D	1C	93	1C	8E	
+-----------------------------
+get data from ID: AA   Time: 267926
+1B	D0	1B	CE	1B	D3	1B	D5	
+-----------------------------
+get data from ID: AA   Time: 268336
+1B	36	1B	34	1B	33	1B	28	
+-----------------------------
+get data from ID: AA   Time: 268744
+1B	5D	1B	4D	1B	58	1B	4E	
+-----------------------------
+get data from ID: AA   Time: 269154
+1B	A5	1B	72	1B	95	1B	62	
+-----------------------------
+get data from ID: AA   Time: 269562
+1C	81	1C	6	1C	37	1B	A6	
+-----------------------------
+get data from ID: AA   Time: 269971
+1D	81	1C	CB	1D	D	1C	1C	
+-----------------------------
+get data from ID: AA   Time: 270381
+1E	41	1D	51	1D	A4	1C	82	
+-----------------------------
+get data from ID: AA   Time: 270790
+1E	D5	1D	C0	1E	26	1C	D2	
+-----------------------------
+get data from ID: AA   Time: 271199
+1F	34	1E	6	1E	76	1D	8	
+-----------------------------
+get data from ID: AA   Time: 271608
+1F	68	1E	2F	1E	A9	1D	28	
+-----------------------------
+get data from ID: AA   Time: 272018
+1F	8D	1E	4D	1E	CB	1D	45	
+-----------------------------
+get data from ID: AA   Time: 272427
+1F	D5	1E	86	1F	A	1D	73	
+-----------------------------
+get data from ID: AA   Time: 272836
+20	26	1E	C4	1F	4D	1D	A6	
+-----------------------------
+get data from ID: AA   Time: 273246
+20	7F	1F	6	1F	9A	1D	D5	
+-----------------------------
+get data from ID: AA   Time: 273654
+20	C3	1F	56	20	C	1E	5B	
+-----------------------------
+get data from ID: AA   Time: 274064
+20	FC	1F	C7	20	8B	1F	48	
+-----------------------------
+get data from ID: AA   Time: 274472
+21	56	20	89	21	23	20	5C	
+-----------------------------
+get data from ID: AA   Time: 274882
+21	D5	21	90	21	CC	21	70	
+-----------------------------
+get data from ID: AA   Time: 275291
+22	97	22	8E	22	92	22	7F	
+-----------------------------
+get data from ID: AA   Time: 275700
+23	88	23	67	23	77	23	5E	
+-----------------------------
+get data from ID: AA   Time: 276109
+24	55	24	45	24	4C	24	27	
+-----------------------------
+get data from ID: AA   Time: 276518
+25	B	24	FA	25	2	24	FA	
+-----------------------------
+get data from ID: AA   Time: 276928
+25	BD	25	B9	25	B8	25	A4	
+-----------------------------
+get data from ID: AA   Time: 277337
+26	4D	26	47	26	4B	26	47	
+-----------------------------
+get data from ID: AA   Time: 277746
+26	BD	26	BF	26	B8	26	AF	
+-----------------------------
+get data from ID: AA   Time: 278155
+27	21	27	27	27	10	27	11	
+-----------------------------
+get data from ID: AA   Time: 278564
+27	8C	27	92	27	82	27	7D	
+-----------------------------
+get data from ID: AA   Time: 278974
+27	F8	27	F2	27	EE	27	F0	
+-----------------------------
+get data from ID: AA   Time: 279383
+28	83	28	74	28	6F	28	6D	
+-----------------------------
+get data from ID: AA   Time: 279792
+29	9	29	4	28	FD	28	F5	
+-----------------------------
+get data from ID: AA   Time: 280201
+29	9F	29	8E	29	8D	29	81	
+-----------------------------
+get data from ID: AA   Time: 280610
+2A	F	2A	13	2A	15	29	FF	
+-----------------------------
+get data from ID: AA   Time: 281020
+2A	9B	2A	9C	2A	8D	2A	8C	
+-----------------------------
+get data from ID: AA   Time: 281428
+2B	11	2B	1B	2B	A	2B	6	
+-----------------------------
+get data from ID: AA   Time: 281838
+2B	77	2B	8F	2B	81	2B	70	
+-----------------------------
+get data from ID: AA   Time: 282247
+2B	C5	2B	BF	2B	BA	2B	B8	
+-----------------------------
+get data from ID: AA   Time: 282656
+2B	E2	2B	ED	2B	D6	2B	DD	
+-----------------------------
+get data from ID: AA   Time: 283065
+2B	D9	2B	D4	2B	D7	2B	CC	
+-----------------------------
+get data from ID: AA   Time: 283474
+2B	AE	2B	B9	2B	B7	2B	BB	
+-----------------------------
+get data from ID: AA   Time: 283884
+2B	B1	2B	B3	2B	B0	2B	B1	
+-----------------------------
+get data from ID: AA   Time: 284293
+2B	AE	2B	B1	2B	A8	2B	AE	
+-----------------------------
+get data from ID: AA   Time: 284702
+2B	C8	2B	D3	2B	AB	2B	BC	
+-----------------------------
+get data from ID: AA   Time: 285112
+2B	FA	2B	F5	2B	E6	2B	E0	
+-----------------------------
+get data from ID: AA   Time: 285520
+2C	3A	2C	30	2C	30	2C	2F	
+-----------------------------
+get data from ID: AA   Time: 285930
+2C	80	2C	76	2C	6D	2C	67	
+-----------------------------
+get data from ID: AA   Time: 286339
+2C	B6	2C	B3	2C	B0	2C	9F	
+-----------------------------
+get data from ID: AA   Time: 286748
+2C	E5	2C	DD	2C	E9	2C	CE	
+-----------------------------
+get data from ID: AA   Time: 287158
+2C	D1	2C	C8	2C	C3	2C	C0	
+-----------------------------
+get data from ID: AA   Time: 287566
+2C	CA	2C	C2	2C	B8	2C	B2	
+-----------------------------
+get data from ID: AA   Time: 287976
+2C	8D	2C	86	2C	99	2C	8C	
+-----------------------------
+get data from ID: AA   Time: 288385
+2C	5E	2C	5A	2C	7A	2C	50	
+-----------------------------
+get data from ID: AA   Time: 288794
+2C	42	2C	36	2C	3F	2C	33	
+-----------------------------
+get data from ID: AA   Time: 289204
+2C	32	2C	34	2C	2E	2C	27	
+-----------------------------
+get data from ID: AA   Time: 289612
+2C	3	2C	22	2C	20	2C	F	
+-----------------------------
+get data from ID: AA   Time: 290022
+2B	E6	2B	E1	2B	E4	2B	E1	
+-----------------------------
+get data from ID: AA   Time: 290430
+2B	D8	2B	CB	2B	C7	2B	C2	
+-----------------------------
+get data from ID: AA   Time: 290840
+2B	AC	2B	AD	2B	A3	2B	96	
+-----------------------------
+get data from ID: AA   Time: 291249
+2B	B2	2B	AB	2B	9D	2B	99	
+-----------------------------
+get data from ID: AA   Time: 291658
+2B	A5	2B	A7	2B	A3	2B	9F	
+-----------------------------
+get data from ID: AA   Time: 292068
+2B	8D	2B	8E	2B	90	2B	87	
+-----------------------------
+get data from ID: AA   Time: 292476
+2B	9B	2B	9E	2B	8F	2B	9E	
+-----------------------------
+get data from ID: AA   Time: 292886
+2B	9B	2B	9E	2B	9B	2B	99	
+-----------------------------
+get data from ID: AA   Time: 293296
+2B	7C	2B	85	2B	7C	2B	77	
+-----------------------------
+get data from ID: AA   Time: 293704
+2B	57	2B	4F	2B	45	2B	45	
+-----------------------------
+get data from ID: AA   Time: 294114
+2B	18	2B	15	2B	1A	2A	FC	
+-----------------------------
+get data from ID: AA   Time: 294523
+2A	CC	2A	D4	2A	D2	2A	D5	
+-----------------------------
+get data from ID: AA   Time: 294932
+2A	96	2A	8F	2A	9B	2A	93	
+-----------------------------
+get data from ID: AA   Time: 295342
+2A	5B	2A	5D	2A	5B	2A	53	
+-----------------------------
+get data from ID: AA   Time: 295750
+2A	24	2A	1F	2A	2D	2A	23	
+-----------------------------
+get data from ID: AA   Time: 296160
+29	E7	29	E9	29	E7	29	DD	
+-----------------------------
+get data from ID: AA   Time: 296569
+29	D8	29	D7	29	D2	29	C9	
+-----------------------------
+get data from ID: AA   Time: 296978
+29	D2	29	C9	29	CA	29	C0	
+-----------------------------
+get data from ID: AA   Time: 297388
+29	D2	29	E0	29	C8	29	BE	
+-----------------------------
+get data from ID: AA   Time: 297796
+29	E8	29	F0	29	F1	29	E1	
+-----------------------------
+get data from ID: AA   Time: 298206
+29	E8	29	E7	29	ED	29	E4	
+-----------------------------
+get data from ID: AA   Time: 298615
+29	D1	29	CD	29	D2	29	CB	
+-----------------------------
+get data from ID: AA   Time: 299024
+29	A7	29	98	29	AC	29	A5	
+-----------------------------
+get data from ID: AA   Time: 299433
+29	86	29	90	29	93	29	8F	
+-----------------------------
+get data from ID: AA   Time: 299842
+29	7E	29	83	29	6D	29	71	
+-----------------------------
+get data from ID: AA   Time: 300252
+29	58	29	57	29	56	29	54	
+-----------------------------
+get data from ID: AA   Time: 300661
+29	31	29	33	29	25	29	27	
+-----------------------------
+get data from ID: AA   Time: 301071
+29	19	29	19	29	14	29	17	
+-----------------------------
+get data from ID: AA   Time: 301479
+28	FF	28	EA	28	E6	28	EA	
+-----------------------------
+get data from ID: AA   Time: 301889
+28	E4	28	DF	28	DD	28	E0	
+-----------------------------
+get data from ID: AA   Time: 302299
+28	E8	28	E1	28	D7	28	D8	
+-----------------------------
+get data from ID: AA   Time: 302707
+28	E0	28	E1	28	D1	28	D6	
+-----------------------------
+get data from ID: AA   Time: 303117
+28	CE	28	C8	28	D1	28	C5	
+-----------------------------
+get data from ID: AA   Time: 303525
+28	C7	28	CE	28	D0	28	BE	
+-----------------------------
+get data from ID: AA   Time: 303935
+28	DA	28	C7	28	D6	28	C5	
+-----------------------------
+get data from ID: AA   Time: 304345
+28	D7	28	C9	28	DF	28	C8	
+-----------------------------
+get data from ID: AA   Time: 304753
+28	BB	28	C8	28	D4	28	C6	
+-----------------------------
+get data from ID: AA   Time: 305163
+28	DE	28	C0	29	11	28	D3	
+-----------------------------
+get data from ID: AA   Time: 305572
+28	F4	28	E9	28	E5	28	DD	
+-----------------------------
+get data from ID: AA   Time: 305981
+28	E3	28	E9	28	E5	28	E7	
+-----------------------------
+get data from ID: AA   Time: 306391
+28	F0	28	FA	28	EA	28	F2	
+-----------------------------
+get data from ID: AA   Time: 306799
+28	F2	28	FC	28	E5	28	F5	
+-----------------------------
+get data from ID: AA   Time: 307209
+28	D1	28	DD	28	D5	28	DB	
+-----------------------------
+get data from ID: AA   Time: 307618
+28	AC	28	B8	28	AF	28	B1	
+-----------------------------
+get data from ID: AA   Time: 308027
+28	88	28	83	28	87	28	7A	
+-----------------------------
+get data from ID: AA   Time: 308436
+28	40	28	4B	28	48	28	3F	
+-----------------------------
+get data from ID: AA   Time: 308845
+28	A	27	FE	28	9	28	2	
+-----------------------------
+get data from ID: AA   Time: 309255
+27	CF	27	C7	27	CF	27	CC	
+-----------------------------
+get data from ID: AA   Time: 309663
+27	85	27	8B	27	90	27	85	
+-----------------------------
+get data from ID: AA   Time: 310073
+27	54	27	40	27	58	27	51	
+-----------------------------
+get data from ID: AA   Time: 310481
+27	16	27	21	27	1B	27	11	
+-----------------------------
+get data from ID: AA   Time: 310891
+26	C5	26	C3	26	D2	26	CE	
+-----------------------------
+get data from ID: AA   Time: 311301
+26	2E	26	2E	26	33	26	35	
+-----------------------------
+get data from ID: AA   Time: 311709
+25	84	25	84	25	84	25	81	
+-----------------------------
+get data from ID: AA   Time: 312119
+24	F2	24	F1	24	F3	24	F3	
+-----------------------------
+get data from ID: AA   Time: 312527
+24	61	24	67	24	61	24	6F	
+-----------------------------
+get data from ID: AA   Time: 312937
+23	CE	23	DD	23	D0	23	D5	
+-----------------------------
+get data from ID: AA   Time: 313346
+23	30	23	39	23	3D	23	3F	
+-----------------------------
+get data from ID: AA   Time: 313755
+22	91	22	9C	22	90	22	9B	
+-----------------------------
+get data from ID: AA   Time: 314164
+21	DF	21	E2	21	DD	21	E5	
+-----------------------------
+get data from ID: AA   Time: 314573
+21	28	21	2E	21	2D	21	2C	
+-----------------------------
+get data from ID: AA   Time: 314983
+20	5F	20	5A	20	61	20	60	
+-----------------------------
+get data from ID: AA   Time: 315392
+1F	6F	1F	73	1F	72	1F	74	
+-----------------------------
+get data from ID: AA   Time: 315801
+1E	6D	1E	6C	1E	6C	1E	75	
+-----------------------------
+get data from ID: AA   Time: 316210
+1D	67	1D	67	1D	67	1D	64	
+-----------------------------
+get data from ID: AA   Time: 316619
+1C	A1	1C	A5	1C	9D	1C	A3	
+-----------------------------
+get data from ID: AA   Time: 317028
+1C	6	1C	6	1C	1	1C	2	
+-----------------------------
+get data from ID: AA   Time: 317437
+1B	BB	1B	BF	1B	B6	1B	B7	
+-----------------------------
+get data from ID: AA   Time: 317846
+1B	C3	1B	C0	1B	BC	1B	BA	
+-----------------------------
+get data from ID: AA   Time: 318256
+1B	F1	1B	EF	1B	F0	1B	E8	
+-----------------------------
+get data from ID: AA   Time: 318664
+1C	2	1C	1	1C	7	1C	6	
+-----------------------------
+get data from ID: AA   Time: 319074
+1B	C8	1B	CA	1B	C8	1B	C8	
+-----------------------------
+get data from ID: AA   Time: 319482
+1B	68	1B	6C	1B	69	1B	68	
+-----------------------------
+get data from ID: AA   Time: 319892
+1A	F1	1A	FB	1A	F8	1A	F9	
+-----------------------------
+get data from ID: AA   Time: 320302
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 320710
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 321119
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 321528
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 321937
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 322347
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 322755
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 323165
+1B	8	1B	4	1B	7	1B	3	
+-----------------------------
+get data from ID: AA   Time: 323573
+1B	6A	1B	6C	1B	6A	1B	63	
+-----------------------------
+get data from ID: AA   Time: 323983
+1B	F4	1B	EF	1B	F4	1B	ED	
+-----------------------------
+get data from ID: AA   Time: 324391
+1C	7F	1C	7B	1C	82	1C	7B	
+-----------------------------
+get data from ID: AA   Time: 324801
+1D	1A	1D	17	1D	15	1D	8	
+-----------------------------
+get data from ID: AA   Time: 325211
+1D	E5	1D	EA	1D	D7	1D	E9	
+-----------------------------
+get data from ID: AA   Time: 325620
+1E	9A	1E	D0	1E	94	1E	C6	
+-----------------------------
+get data from ID: AA   Time: 326029
+1F	5F	1F	91	1F	50	1F	83	
+-----------------------------
+get data from ID: AA   Time: 326437
+1F	DA	20	D	1F	D9	20	20	
+-----------------------------
+get data from ID: AA   Time: 326847
+20	59	20	7F	20	54	20	6D	
+-----------------------------
+get data from ID: AA   Time: 327257
+21	2	21	F	20	FC	21	8	
+-----------------------------
+get data from ID: AA   Time: 327654
+0	0	0	0	0	B1	
+-----------------------------
+get data from ID: AA   Time: 328050
+22	E8	22	5A	22	6B	22	AB	
+-----------------------------
+get data from ID: AA   Time: 328460
+23	4D	23	24	23	C0	23	1E	
+-----------------------------
+get data from ID: AA   Time: 328869
+23	E9	23	CD	23	DB	23	CB	
+-----------------------------
+get data from ID: AA   Time: 329278
+24	61	24	45	24	5E	24	53	
+-----------------------------
+get data from ID: AA   Time: 329688
+24	C7	24	B9	24	C9	24	B9	
+-----------------------------
+get data from ID: AA   Time: 330096
+25	38	25	35	25	3E	25	12	
+-----------------------------
+get data from ID: AA   Time: 330506
+25	9F	25	A0	25	8A	25	96	
+-----------------------------
+get data from ID: AA   Time: 330914
+25	F3	25	F6	25	EB	25	EA	
+-----------------------------
+get data from ID: AA   Time: 331324
+26	3F	26	4C	26	3A	26	38	
+-----------------------------
+get data from ID: AA   Time: 331732
+26	85	26	7A	26	79	26	7D	
+-----------------------------
+get data from ID: AA   Time: 332142
+26	BA	26	A1	26	A7	26	9F	
+-----------------------------
+get data from ID: AA   Time: 332552
+26	CE	26	BE	26	C4	26	B8	
+-----------------------------
+get data from ID: AA   Time: 332960
+26	E2	26	E2	26	E4	26	D5	
+-----------------------------
+get data from ID: AA   Time: 333370
+27	F	27	D	27	3	26	F9	
+-----------------------------
+get data from ID: AA   Time: 333767
+0	0	0	0	0	B1	
+-----------------------------
+get data from ID: AA   Time: 334164
+27	5E	27	5A	27	57	27	4A	
+-----------------------------
+get data from ID: AA   Time: 334573
+27	84	27	76	27	83	27	81	
+-----------------------------
+get data from ID: AA   Time: 334983
+27	B6	27	9B	27	97	27	92	
+-----------------------------
+get data from ID: AA   Time: 335392
+27	C7	27	CB	27	BE	27	B4	
+-----------------------------
+get data from ID: AA   Time: 335801
+27	F8	27	F6	27	E4	27	EC	
+-----------------------------
+get data from ID: AA   Time: 336210
+28	2F	28	2D	28	23	28	2B	
+-----------------------------
+get data from ID: AA   Time: 336619
+28	62	28	67	28	64	28	5A	
+-----------------------------
+get data from ID: AA   Time: 337029
+28	A1	28	92	28	7C	28	93	
+-----------------------------
+get data from ID: AA   Time: 337437
+28	B5	28	B5	28	B6	28	B5	
+-----------------------------
+get data from ID: AA   Time: 337847
+28	F0	28	EF	28	D8	28	DB	
+-----------------------------
+get data from ID: AA   Time: 338255
+28	FB	28	FE	29	4	28	F0	
+-----------------------------
+get data from ID: AA   Time: 338665
+29	10	29	11	29	4	29	B	
+-----------------------------
+get data from ID: AA   Time: 339075
+29	B	29	8	28	FF	28	EF	
+-----------------------------
+get data from ID: AA   Time: 339483
+28	E2	28	E5	28	DF	28	CC	
+-----------------------------
+get data from ID: AA   Time: 339893
+28	A8	28	A7	28	9D	28	87	
+-----------------------------
+get data from ID: AA   Time: 340301
+28	72	28	7C	28	7C	28	80	
+-----------------------------
+get data from ID: AA   Time: 340711
+28	68	28	55	28	4D	28	5F	
+-----------------------------
+get data from ID: AA   Time: 341121
+28	3C	28	3C	28	49	28	33	
+-----------------------------
+get data from ID: AA   Time: 341529
+28	26	28	24	28	2B	28	26	
+-----------------------------
+get data from ID: AA   Time: 341939
+28	4	28	1E	28	B	28	15	
+-----------------------------
+get data from ID: AA   Time: 342348
+27	DA	27	ED	28	19	28	21	
+-----------------------------
+get data from ID: AA   Time: 342757
+27	CB	27	E5	27	CF	27	E0	
+-----------------------------
+get data from ID: AA   Time: 343166
+27	D5	27	EF	27	C2	27	C4	
+-----------------------------
+get data from ID: AA   Time: 343575
+27	B2	27	B7	27	AC	27	C5	
+-----------------------------
+get data from ID: AA   Time: 343985
+27	A7	27	9D	27	92	27	9D	
+-----------------------------
+get data from ID: AA   Time: 344394
+27	70	27	6F	27	6D	27	5E	
+-----------------------------
+get data from ID: AA   Time: 344803
+27	27	27	1C	27	28	27	13	
+-----------------------------
+get data from ID: AA   Time: 345212
+26	D0	26	C4	26	D5	26	C9	
+-----------------------------
+get data from ID: AA   Time: 345622
+26	6F	26	6F	26	7C	26	6E	
+-----------------------------
+get data from ID: AA   Time: 346031
+26	D	26	11	26	30	26	3	
+-----------------------------
+get data from ID: AA   Time: 346440
+25	D3	25	C9	25	D3	25	C3	
+-----------------------------
+get data from ID: AA   Time: 346849
+25	88	25	6A	25	81	25	6E	
+-----------------------------
+get data from ID: AA   Time: 347258
+25	54	25	3F	25	42	25	29	
+-----------------------------
+get data from ID: AA   Time: 347668
+25	47	25	26	25	4B	25	52	
+-----------------------------
+get data from ID: AA   Time: 348078
+24	EA	24	DC	24	F9	24	EC	
+-----------------------------
+get data from ID: AA   Time: 348486
+24	CA	24	B8	24	C1	24	AF	
+-----------------------------
+get data from ID: AA   Time: 348896
+24	8A	24	8F	24	82	24	7A	
+-----------------------------
+get data from ID: AA   Time: 349304
+24	3A	24	44	24	47	24	3A	
+-----------------------------
+get data from ID: AA   Time: 349714
+23	D1	23	CC	23	C8	23	C6	
+-----------------------------
+get data from ID: AA   Time: 350123
+23	F	23	D	23	13	23	1	
+-----------------------------
+get data from ID: AA   Time: 350520
+0	0	0	0	0	B1	
+-----------------------------
+get data from ID: AA   Time: 350917
+21	62	21	5F	21	65	21	62	
+-----------------------------
+get data from ID: AA   Time: 351326
+20	68	20	62	20	64	20	60	
+-----------------------------
+get data from ID: AA   Time: 351735
+1F	53	1F	55	1F	57	1F	59	
+-----------------------------
+get data from ID: AA   Time: 352145
+1E	8B	1E	89	1E	7D	1E	91	
+-----------------------------
+get data from ID: AA   Time: 352553
+1E	6E	1E	6D	1E	6D	1E	6C	
+-----------------------------
+get data from ID: AA   Time: 352963
+1E	47	1E	43	1E	46	1E	39	
+-----------------------------
+get data from ID: AA   Time: 353372
+1E	5A	1E	71	1E	47	1E	5E	
+-----------------------------
+get data from ID: AA   Time: 353781
+1E	8E	1E	D9	1E	85	1E	D5	
+-----------------------------
+get data from ID: AA   Time: 354191
+1F	3	1F	60	1E	FA	1F	46	
+-----------------------------
+get data from ID: AA   Time: 354599
+1F	89	1F	E1	1F	7D	1F	D6	
+-----------------------------
+get data from ID: AA   Time: 355009
+20	A	20	78	1F	FA	20	62	
+-----------------------------
+get data from ID: AA   Time: 355419
+20	AE	21	20	20	A1	21	5	
+-----------------------------
+get data from ID: AA   Time: 355827
+21	5C	21	C6	21	2A	21	BE	
+-----------------------------
+get data from ID: AA   Time: 356237
+22	3	22	31	21	E7	22	5E	
+-----------------------------
+get data from ID: AA   Time: 356634
+0	0	0	0	0	B1	
+-----------------------------
+get data from ID: AA   Time: 357030
+23	67	23	86	23	78	23	5F	
+-----------------------------
+get data from ID: AA   Time: 357440
+23	DF	24	4	24	18	23	FF	
+-----------------------------
+get data from ID: AA   Time: 357850
+24	53	24	72	24	61	24	7F	
+-----------------------------
+get data from ID: AA   Time: 358259
+24	BA	24	BE	24	A1	24	B2	
+-----------------------------
+get data from ID: AA   Time: 358668
+24	F1	24	ED	24	DF	24	E0	
+-----------------------------
+get data from ID: AA   Time: 359077
+25	0	25	0	24	F8	25	4	
+-----------------------------
+get data from ID: AA   Time: 359486
+25	30	25	31	25	39	25	35	
+-----------------------------
+get data from ID: AA   Time: 359896
+25	6D	25	6A	25	6D	25	90	
+-----------------------------
+get data from ID: AA   Time: 360305
+25	6B	25	6A	25	6C	25	60	
+-----------------------------
+get data from ID: AA   Time: 360715
+25	50	25	42	25	4E	25	49	
+-----------------------------
+get data from ID: AA   Time: 361123
+25	1F	25	17	25	22	25	14	
+-----------------------------
+get data from ID: AA   Time: 361533
+25	0	24	E7	24	EF	24	E7	
+-----------------------------
+get data from ID: AA   Time: 361942
+24	BF	24	BC	24	C0	24	B5	
+-----------------------------
+get data from ID: AA   Time: 362351
+24	8D	24	8A	24	8E	24	8A	
+-----------------------------
+get data from ID: AA   Time: 362761
+24	7C	24	61	24	5E	24	50	
+-----------------------------
+get data from ID: AA   Time: 363169
+24	1E	24	1E	23	F8	23	EF	
+-----------------------------
+get data from ID: AA   Time: 363579
+23	F7	23	EE	23	EF	23	E8	
+-----------------------------
+get data from ID: AA   Time: 363987
+23	B7	23	C4	23	C5	23	C4	
+-----------------------------
+get data from ID: AA   Time: 364397
+23	87	23	8F	23	8D	23	87	
+-----------------------------
+get data from ID: AA   Time: 364806
+23	28	23	2B	23	27	23	2D	
+-----------------------------
+get data from ID: AA   Time: 365215
+22	9A	22	94	22	93	22	91	
+-----------------------------
+get data from ID: AA   Time: 365625
+22	0	22	8	21	F5	21	F7	
+-----------------------------
+get data from ID: AA   Time: 366022
+0	0	0	0	0	B1	
+-----------------------------
+get data from ID: AA   Time: 366419
+21	9A	21	A4	21	96	21	9C	
+-----------------------------
+get data from ID: AA   Time: 366828
+21	79	21	7A	21	75	21	70	
+-----------------------------
+get data from ID: AA   Time: 367238
+21	58	21	55	21	53	21	4E	
+-----------------------------
+get data from ID: AA   Time: 367647
+21	64	21	60	21	59	21	59	
+-----------------------------
+get data from ID: AA   Time: 368056
+21	8A	21	7D	21	93	21	74	
+-----------------------------
+get data from ID: AA   Time: 368465
+21	A9	21	B9	21	AB	21	AD	
+-----------------------------
+get data from ID: AA   Time: 368874
+21	DC	21	E1	21	DA	21	F7	
+-----------------------------
+get data from ID: AA   Time: 369284
+22	27	22	25	22	E	22	1F	
+-----------------------------
+get data from ID: AA   Time: 369692
+22	64	22	5E	22	53	22	50	
+-----------------------------
+get data from ID: AA   Time: 370102
+22	80	22	64	22	69	22	82	
+-----------------------------
+get data from ID: AA   Time: 370511
+22	5E	22	77	22	80	22	59	
+-----------------------------
+get data from ID: AA   Time: 370920
+22	4C	22	5C	22	58	22	44	
+-----------------------------
+get data from ID: AA   Time: 371330
+22	29	22	26	22	9	22	2B	
+-----------------------------
+get data from ID: AA   Time: 371738
+21	ED	22	1A	21	D1	22	F	
+-----------------------------
+get data from ID: AA   Time: 372148
+21	8B	22	16	21	9A	21	DC	
+-----------------------------
+get data from ID: AA   Time: 372557
+21	4B	21	F0	21	2D	21	E3	
+-----------------------------
+get data from ID: AA   Time: 372966
+21	13	21	F8	20	D9	21	D2	
+-----------------------------
+get data from ID: AA   Time: 373376
+21	35	22	13	20	E5	21	A9	
+-----------------------------
+get data from ID: AA   Time: 373784
+21	34	22	28	20	CF	22	1A	
+-----------------------------
+get data from ID: AA   Time: 374194
+21	42	22	2	21	39	21	D8	
+-----------------------------
+get data from ID: AA   Time: 374603
+21	39	21	9C	21	3C	21	A0	
+-----------------------------
+get data from ID: AA   Time: 375012
+20	B7	21	14	20	B4	21	39	
+-----------------------------
+get data from ID: AA   Time: 375421
+20	91	20	BE	20	8F	20	C3	
+-----------------------------
+get data from ID: AA   Time: 375830
+20	7F	20	A1	20	7C	20	8D	
+-----------------------------
+get data from ID: AA   Time: 376240
+20	B2	20	C0	20	9F	20	B0	
+-----------------------------
+get data from ID: AA   Time: 376649
+21	6	21	7	21	B	21	7	
+-----------------------------
+get data from ID: AA   Time: 377058
+21	76	21	7E	21	70	21	75	
+-----------------------------
+get data from ID: AA   Time: 377467
+22	10	22	11	21	FC	22	E	
+-----------------------------
+get data from ID: AA   Time: 377876
+22	AD	22	9D	22	A1	22	98	
+-----------------------------
+get data from ID: AA   Time: 378286
+23	40	23	4D	23	46	23	31	
+-----------------------------
+get data from ID: AA   Time: 378694
+23	E0	23	DD	23	D4	23	D7	
+-----------------------------
+get data from ID: AA   Time: 379104
+24	67	24	63	24	5C	24	5D	
+-----------------------------
+get data from ID: AA   Time: 379513
+24	B1	24	E8	24	D9	24	D6	
+-----------------------------
+get data from ID: AA   Time: 379922
+25	45	25	37	25	41	25	2A	
+-----------------------------
+get data from ID: AA   Time: 380332
+25	64	25	6E	25	69	25	5C	
+-----------------------------
+get data from ID: AA   Time: 380741
+25	96	25	8C	25	8A	25	84	
+-----------------------------
+get data from ID: AA   Time: 381150
+25	B2	25	B7	25	AF	25	95	
+-----------------------------
+get data from ID: AA   Time: 381559
+25	C5	25	B6	25	BC	25	B6	
+-----------------------------
+get data from ID: AA   Time: 381969
+25	D2	25	C0	25	D0	25	B8	
+-----------------------------
+get data from ID: AA   Time: 382377
+25	BD	25	A9	25	AF	25	A3	
+-----------------------------
+get data from ID: AA   Time: 382787
+25	79	25	6A	25	80	25	71	
+-----------------------------
+get data from ID: AA   Time: 383197
+25	2A	25	23	25	23	25	1D	
+-----------------------------
+get data from ID: AA   Time: 383605
+24	D1	24	D8	24	C9	24	C2	
+-----------------------------
+get data from ID: AA   Time: 384015
+24	B1	24	BD	24	A6	24	B9	
+-----------------------------
+get data from ID: AA   Time: 384423
+24	A6	24	A3	24	9F	24	A1	
+-----------------------------
+get data from ID: AA   Time: 384833
+24	65	24	69	24	63	24	6B	
+-----------------------------
+get data from ID: AA   Time: 385243
+23	FE	24	D	23	F9	24	3	
+-----------------------------
+get data from ID: AA   Time: 385651
+23	97	23	A3	23	9E	23	A2	
+-----------------------------
+get data from ID: AA   Time: 386061
+23	2B	23	34	23	1D	23	2F	
+-----------------------------
+get data from ID: AA   Time: 386469
+22	98	22	B9	22	9C	22	A8	
+-----------------------------
+get data from ID: AA   Time: 386879
+21	D3	22	12	21	D8	22	14	
+-----------------------------
+get data from ID: AA   Time: 387289
+20	D8	21	4E	20	CB	21	49	
+-----------------------------
+get data from ID: AA   Time: 387697
+1F	E9	20	6E	1F	CD	20	55	
+-----------------------------
+get data from ID: AA   Time: 388107
+1E	EB	1F	9D	1E	DA	1F	79	
+-----------------------------
+get data from ID: AA   Time: 388516
+1E	59	1F	17	1E	15	1E	DA	
+-----------------------------
+get data from ID: AA   Time: 388925
+1D	FA	1E	B8	1D	AA	1E	78	
+-----------------------------
+get data from ID: AA   Time: 389335
+1D	B5	1E	67	1D	61	1E	24	
+-----------------------------
+get data from ID: AA   Time: 389744
+1D	78	1E	20	1D	38	1D	EB	
+-----------------------------
+get data from ID: AA   Time: 390153
+1D	83	1E	30	1D	3C	1D	EA	
+-----------------------------
+get data from ID: AA   Time: 390562
+1D	A8	1E	63	1D	4F	1E	C	
+-----------------------------
+get data from ID: AA   Time: 390971
+1D	B6	1E	87	1D	45	1E	3A	
+-----------------------------
+get data from ID: AA   Time: 391380
+1D	B3	1E	A0	1D	29	1E	38	
+-----------------------------
+get data from ID: AA   Time: 391789
+1D	C2	1E	B6	1D	13	1E	32	
+-----------------------------
+get data from ID: AA   Time: 392199
+1D	CC	1E	CB	1D	18	1E	46	
+-----------------------------
+get data from ID: AA   Time: 392608
+1D	DC	1E	D8	1D	4A	1E	34	
+-----------------------------
+get data from ID: AA   Time: 393017
+1D	AB	1E	E4	1D	3D	1E	30	
+-----------------------------
+get data from ID: AA   Time: 393426
+1D	95	1E	70	1C	F2	1E	36	
+-----------------------------
+get data from ID: AA   Time: 393836
+1D	59	1E	43	1C	DD	1E	B	
+-----------------------------
+get data from ID: AA   Time: 394245
+1D	72	1E	23	1D	30	1E	5	
+-----------------------------
+get data from ID: AA   Time: 394654
+1D	A0	1E	44	1D	6E	1E	C	
+-----------------------------
+get data from ID: AA   Time: 395064
+1D	C4	1E	48	1D	BC	1E	2B	
+-----------------------------
+get data from ID: AA   Time: 395473
+1D	F0	1E	5A	1D	E1	1E	3B	
+-----------------------------
+get data from ID: AA   Time: 395882
+1E	E	1E	77	1D	FF	1E	55	
+-----------------------------
+get data from ID: AA   Time: 396292
+1E	1C	1E	7C	1E	D	1E	6E	
+-----------------------------
+get data from ID: AA   Time: 396700
+1D	FB	1E	33	1D	F5	1E	2D	
+-----------------------------
+get data from ID: AA   Time: 397110
+1D	C8	1D	CD	1D	C3	1D	CE	
+-----------------------------
+get data from ID: AA   Time: 397519
+1D	DD	1D	8A	1D	CD	1D	81	
+-----------------------------
+get data from ID: AA   Time: 397928
+1E	39	1D	9A	1E	8	1D	6F	
+-----------------------------
+get data from ID: AA   Time: 398338
+1E	86	1D	C6	1E	4C	1D	77	
+-----------------------------
+get data from ID: AA   Time: 398746
+1E	5E	1D	8C	1E	14	1D	21	
+-----------------------------
+get data from ID: AA   Time: 399156
+1D	FB	1D	31	1D	9D	1C	B6	
+-----------------------------
+get data from ID: AA   Time: 399565
+1D	C6	1D	3	1D	5D	1C	67	
+-----------------------------
+get data from ID: AA   Time: 399974
+1D	CA	1D	3	1D	5B	1C	65	
+-----------------------------
+get data from ID: AA   Time: 400384
+1D	DF	1D	E	1D	6D	1C	74	
+-----------------------------
+get data from ID: AA   Time: 400792
+1D	D3	1D	4	1D	62	1C	6B	
+-----------------------------
+get data from ID: AA   Time: 401202
+1D	48	1C	9C	1C	ED	1C	1E	
+-----------------------------
+get data from ID: AA   Time: 401611
+1C	C9	1C	37	1C	6F	1B	C0	
+-----------------------------
+get data from ID: AA   Time: 402020
+1C	4F	1B	EA	1C	29	1B	9F	
+-----------------------------
+get data from ID: AA   Time: 402429
+1B	86	1B	61	1B	80	1B	6D	
+-----------------------------
+get data from ID: AA   Time: 402839
+1B	2E	1B	23	1B	22	1B	22	
+-----------------------------
+get data from ID: AA   Time: 403248
+1B	10	1B	12	1B	F	1B	16	
+-----------------------------
+get data from ID: AA   Time: 403657
+1B	4	1B	7	1B	3	1B	6	
+-----------------------------
+get data from ID: AA   Time: 404066
+1A	DE	1A	E3	1A	E1	1A	E6	
+-----------------------------
+get data from ID: AA   Time: 404475
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 404884
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 405294
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 405702
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 406112
+1A	6F	1A	6F	1A	6F	1A	6F	
+-----------------------------
+get data from ID: AA   Time: 406521
+1A	6F	1A	6F	1A	6F	1A	6F	
