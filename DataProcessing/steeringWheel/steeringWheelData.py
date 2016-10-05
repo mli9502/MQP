@@ -21,14 +21,14 @@ def processLine(line, timeList, dataList):
             binStr += np.binary_repr(tmpList[i], width = 8)
         dataList.append(binStr)
 
-fd = open('steeringWheel.txt', 'r')
+fd = open('newSteeringWheel.txt', 'r')
 # timeList contains the time in ms. This is the x-axis data.
 timeList = []
 # dataList contains the binary format of the input 8-bytes data.
 dataList = []
 for line in fd:
     processLine(line, timeList, dataList)
-print dataList
+
 # There are total number of len(dataList[0] - 7) possible ways of getting a byte.
 # byteDataList[0] contains all the data using their first byte.
 byteDataList = []
@@ -38,11 +38,13 @@ for i in range(0, len(dataList)):
     for j in range(0, len(dataList[i]) - BIT_CNT - 1):
         tmpStr = bs.BitArray(bin = dataList[i][j : j + BIT_CNT])
         byteDataList[j].append(tmpStr.int)
-plt.plot(timeList, byteDataList[4])
+
+plt.plot(timeList, list(map(lambda x : 1.5 * x, byteDataList[4])))
 plt.xlabel('time')
 plt.ylabel('data')
-plt.title('plot number ' + str(i))
+plt.title('plot number ' + str(4))
 plt.show() 
+
 '''
 for i in range(0, len(byteDataList)):
     print byteDataList[i]
