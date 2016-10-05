@@ -1,5 +1,8 @@
 import numpy as np
 import matplotlib.pyplot as plt
+import bitstring as bs
+
+BIT_CNT = 12
 
 def processLine(line, timeList, dataList):
     lineList = line.split(" ")
@@ -29,12 +32,14 @@ for line in fd:
 # There are total number of len(dataList[0] - 7) possible ways of getting a byte.
 # byteDataList[0] contains all the data using their first byte.
 byteDataList = []
-for i in range(0, len(dataList[0]) - 7):
+for i in range(0, len(dataList[0]) - BIT_CNT - 1):
     byteDataList.append([])
 for i in range(0, len(dataList)):
-    for j in range(0, len(dataList[i]) - 7):
-        byteDataList[j].append(int(dataList[i][j : j + 8], base = 2))
+    for j in range(0, len(dataList[i]) - BIT_CNT - 1):
+        tmpStr = bs.BitArray(bin = dataList[i][j : j + BIT_CNT])
+        byteDataList[j].append(tmpStr.int)
 for i in range(0, len(byteDataList)):
+    print byteDataList[i]
     plt.plot(timeList, byteDataList[i])
     plt.xlabel('time')
     plt.ylabel('data')
