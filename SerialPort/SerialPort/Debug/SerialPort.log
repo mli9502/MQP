@@ -1,0 +1,4 @@
+﻿  SerialPort.cpp
+  AssemblyInfo.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  SerialPort.vcxproj -> C:\Users\Mengwen\Desktop\WPI\MQP\SerialPort\Debug\SerialPort.exe
+  SerialPort.vcxproj -> C:\Users\Mengwen\Desktop\WPI\MQP\SerialPort\Debug\SerialPort.pdb (Partial PDB)
