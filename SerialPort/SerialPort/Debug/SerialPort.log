@@ -1,4 +1,9 @@
-﻿  SerialPort.cpp
+﻿  stdafx.cpp
+  AssemblyInfo.cpp
+  Serial.cpp
+  SerialPort.cpp
+  Generating Code...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
   AssemblyInfo.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
-  SerialPort.vcxproj -> C:\Users\Mengwen\Desktop\WPI\MQP\SerialPort\Debug\SerialPort.exe
-  SerialPort.vcxproj -> C:\Users\Mengwen\Desktop\WPI\MQP\SerialPort\Debug\SerialPort.pdb (Partial PDB)
+  SerialPort.vcxproj -> C:\Users\lmw.lmw-PC\Desktop\MQP\SerialPort\Debug\SerialPort.exe
+  SerialPort.vcxproj -> C:\Users\lmw.lmw-PC\Desktop\MQP\SerialPort\Debug\SerialPort.pdb (Partial PDB)
