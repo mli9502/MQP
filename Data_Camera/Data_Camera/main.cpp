@@ -33,6 +33,7 @@ void control(int tag) {
 		dataFunc();
 	}
 }
+
 void cameraFunc() {
 	ofstream cameraFd;
 	cameraFd.open(cameraFile);
@@ -46,6 +47,7 @@ void cameraFunc() {
 	}
 	
 }
+
 void dataFunc() {
 	ofstream obdFd;
 	obdFd.open(obdFile);
@@ -65,7 +67,6 @@ void dataFunc() {
 
 	}
 }
-
 
 int main(int argc, _TCHAR* argv[]) {
 	thread cameraThread(control, CAMERA);
