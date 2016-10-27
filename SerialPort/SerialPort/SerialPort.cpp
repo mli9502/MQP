@@ -24,5 +24,6 @@ int main(int argc, _TCHAR* argv[]) {
 		incomingData[readResult] = 0;
 		printf("%s", incomingData);
 	}
+	cin.get();
 	return 0;
 }
