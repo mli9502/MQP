@@ -10,6 +10,8 @@
 #include <fstream>
 #include "Camera.h"
 #include <vector>
+#include <chrono>
+#include <ctime>
 
 #define CAMERA 0
 #define OBD 1
@@ -89,7 +91,11 @@ void dataFunc() {
 		readResult = SP->ReadData(incomingData, dataLength);
 		// printf("Bytes read: (0 means no data available) %i\n",readResult);
 		incomingData[readResult] = 0;
-		printf("%s", incomingData);
+		string data(incomingData);
+		// printf("%s", incomingData);
+		auto timeStamp = chrono::system_clock::now();
+		time_t cTimeStamp = chrono::system_clock::to_time_t(timeStamp);
+		obdFd << "TimeStamp: " << ctime(&cTimeStamp) << " id: " << id << " data: " << data << endl;
 	}
 }
 

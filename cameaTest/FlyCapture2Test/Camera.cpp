@@ -83,7 +83,7 @@ Camera* SetSingleCamera(PGRGuid guid)
 	}
 	return cam;
 }
-
+// Capture an image with the given id number and file name.
 int capture(Camera* cam, int id, string& fileName) {
 	Image rawImage;
 	Error error;
@@ -96,9 +96,7 @@ int capture(Camera* cam, int id, string& fileName) {
 		PrintError(error);
 		return -1;
 	}
-
 	cout << "Grabbed image " << id << endl;
-
 	// Create a converted image
 	Image convertedImage;
 
@@ -124,7 +122,7 @@ int capture(Camera* cam, int id, string& fileName) {
 		return -1;
 	}
 }
-
+// Start the given camera.
 int StartCamera(Camera* cam) {
 	Error error;
 	error = cam->StartCapture();
@@ -134,7 +132,7 @@ int StartCamera(Camera* cam) {
 		return -1;
 	}
 }
-
+// Stop and disconnect the given camera.
 int StopAndDisconnectCamera(Camera* cam) {
 	Error error;
 	// Stop capturing images
