@@ -36,31 +36,31 @@ void loop()
 {
     unsigned char len = 0;
     unsigned char buf[8];
-
+    Serial.println(CAN.checkReceive());
     if(CAN_MSGAVAIL == CAN.checkReceive())            // check if data coming
     {
         CAN.readMsgBuf(&len, buf);    // read data,  len: data length, buf: data buf
-
+        Serial.println("11111");
         unsigned char canId = CAN.getCanId();
-        if(canId == 6 * 16 + 1)
-        {
-            if(cnt == 10) {
-              time = millis();
-            Serial.println("-----------------------------");
-            Serial.print("get data from ID: ");
-            Serial.print(canId, HEX);
-            Serial.print("   Time: ");
-            Serial.println(time);
-            for(int i = 0; i<len; i++)    // print the data
-            {
-                Serial.print(buf[i], HEX);
-                Serial.print("\t");
-            }
-            Serial.println();
-            cnt = 0;
-            }
-            cnt ++;
-        }
+        // if(canId == 6 * 16 + 1)
+        // {
+            // if(cnt == 10) {
+                time = millis();
+                Serial.println("-----------------------------");
+                Serial.print("get data from ID: ");
+                Serial.print(canId, HEX);
+                Serial.print("   Time: ");
+                Serial.println(time);
+                for(int i = 0; i<len; i++)    // print the data
+                {
+                    Serial.print(buf[i], HEX);
+                    Serial.print("\t");
+                }
+                Serial.println();
+                // cnt = 0;
+            // }
+            // cnt ++;
+        // }
     }
 }
 

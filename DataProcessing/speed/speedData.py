@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import bitstring as bs
 
-BIT_CNT = 12
+BIT_CNT = 9
 
 def processLine(line, timeList, dataList):
     lineList = line.split(" ")
