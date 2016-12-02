@@ -18,3 +18,7 @@ def convAngle(hexArr):
             binStr = '1' + format(int(sec2Bytes, 16), '0>8b')
             bitArr = BitArray(bin=binStr)
             return bitArr.int
+
+def convSpeed(hexArr):
+    # Need to modifiy this latter.
+    return ''.join(hexArr)

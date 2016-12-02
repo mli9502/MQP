@@ -1,14 +1,16 @@
 import serial
 import thread
 import time
+from interpData import convAngle
+from interpData import convSpeed
 
 str1 = '/dev/ttyUSB2'
 str2 = '/dev/ttyUSB3'
-def printMsg(msg):
-    ser = serial.Serial(msg, 115200, timeout=1)
+def printMsg(port):
+    ser = serial.Serial(port, 115200, timeout=1)
     ser.write('ATZ \r')
     time.sleep(1)
-    if msg == str1:
+    if port == str1:
         ser.write('ATCRA 0AA \r')
         fd = open('speed.txt', 'w')
     else:
@@ -21,10 +23,13 @@ def printMsg(msg):
     while True:
         rtn = ser.read()
         if rtn == '\r':
-            val = ''.join(buff)
+            if port == str1:
+                val = convSpeed(buff)
+            else:
+                val = convAngle(buff)
             fd.write(val)
             fd.write('\n')
-            # print(val)
+            print(val);
             buff = []
         else:
             buff.append(rtn)
