@@ -1,5 +1,5 @@
 // demo: CAN-BUS Shield, send data
-#include <mcp_can.h>
+#include "mcp_can.h"
 #include <SPI.h>
 
 // the cs pin of the version after v1.1 is default to D9
